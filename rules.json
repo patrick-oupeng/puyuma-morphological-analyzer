@@ -1,0 +1,614 @@
+{
+  "simple affix": {
+    "infix": [
+      {
+        "orthography": "-in-",
+        "rule": "Add  -in- after the first consonant of the stem",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "-em-",
+        "rule": "Add  -em- after the first consonant of the stem",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "-en-",
+        "rule": "Add  -em- after the first consonant of the stem",
+        "meanings": [],
+        "notes": "Allomorph of -em-"
+      },
+      {
+        "orthography": "-um-",
+        "rule": "Add  -um- after the first consonant of the stem",
+        "meanings": [],
+        "notes": "Allomorph of -em-"
+      },
+      {
+        "orthography": "-un-",
+        "rule": "Add  -un- after the first consonant of the stem",
+        "meanings": [],
+        "notes": "Allomorph of -em-"
+      },
+      {
+        "orthography": "-im-",
+        "rule": "Add  -im- after the first consonant of the stem",
+        "meanings": [],
+        "notes": "Allomorph of -em-"
+      }
+    ],
+    "prefix": [
+      {
+        "orthography": "be-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "i-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ku-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pa-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ra-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "be-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "re-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ru-",
+        "rule": "",
+        "meanings": [],
+        "notes": "Only one word: rukedrang"
+      },
+      {
+        "orthography": "sa-",
+        "rule": "",
+        "meanings": [],
+        "notes": "Only three words: sabak, saninin, salebak"
+      },
+      {
+        "orthography": "ta-",
+        "rule": "",
+        "meanings": [],
+        "notes": "Only two words: tapesi, tariyama"
+      },
+      {
+        "orthography": "ti-",
+        "rule": "",
+        "meanings": [],
+        "notes": "No independent word"
+      },
+      {
+        "orthography": "tu-",
+        "rule": "",
+        "meanings": [],
+        "notes": "No independent word"
+      },
+      {
+        "orthography": "u-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kan-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ka-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ki-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ma-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "me-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "mi-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "mu-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ni-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pa-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pi-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pu-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ],
+    "suffix": [
+      {
+        "orthography": "-an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "-aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "-ay",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "-anay",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "-u",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "-i",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ]
+  },
+  "compound affix": {
+    "prefix + prefix": [
+      {
+        "orthography": "kara-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kare-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kipa-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kire-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kure-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "maka-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "mara-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "mare-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "mutu-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "paka-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pake-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "paki-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "paku-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "para-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pare-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "putu-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "tara-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ],
+    "prefix + prefix + prefix": [
+      {
+        "orthography": "kirepa-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "mareka-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "marepa-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ],
+    "prefix + infix": [
+      {
+        "orthography": "kema-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kemi-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pena-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "temara-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kina-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kini-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "mi--in-",
+        "rule": "Add -in- after the first consonant of the stem, then add mi- before the stem",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pina-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pini-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pinu-",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ],
+    "prefix + suffix": [
+      {
+        "orthography": "ka--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ki--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ka--aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ki--aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pa--aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pu--aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ki--ay",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pu--ay",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pa--anay",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ka--u",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pa--u",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pu--u",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ka--i",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pu--i",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ],
+    "prefix + prefix + suffix": [
+      {
+        "orthography": "kure--aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kure--ay",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kure--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kara--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "paka--aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "paka--ay",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "paka--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pare--aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pare--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "putu--aw",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ],
+    "infix + suffix": [
+      {
+        "orthography": "-in--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "ni--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ],
+    "prefix + infix + suffix": [
+      {
+        "orthography": "kina--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "kini--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "pina--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      },
+      {
+        "orthography": "inu--an",
+        "rule": "",
+        "meanings": [],
+        "notes": ""
+      }
+    ]
+  },
+  "reduplication": {
+    "Ca reduplication": {
+        "rule": "If the first letter of the second to last syllable in a stem is a consonant, reduplicate the consonant of the stem and add -a- right before the consonant. If the first letter of the second to last syllable in a stem is a vowel, directly add an -a- right before the vowel.",
+        "meanings": [],
+        "notes": "Most stems have two syllables, so usually the second to last syllable is the first syllable."
+    },
+    "CVCV- reduplication": {
+        "rule": "Reduplicate the last two syllables of the stem. The consonants after the vowel in the latter syllable are ignored.",
+        "meanings": [],
+        "notes": ""
+    }
+  }
+}
