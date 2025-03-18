@@ -10,6 +10,7 @@
 2. Download FormosanBank repository
 3. Download this repository
 4. Make a python virtual environment, install jupyter lab, and activate it:
+
 ```
 python3 -m venv .puyuma_venv
 source .puyuma_venv/bin/activate
