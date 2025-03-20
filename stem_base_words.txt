@@ -1,0 +1,6864 @@
+Stem: bowaro
+Base words: ['pabowaro']
+
+Stem: beliyas
+Base words: ['beliyasu', 'mubeliyas', 'beliyasaw']
+
+Stem: talram
+Base words: ['talrami', 'talramay', 'tatalram', 'talraman']
+
+Stem: yaulas
+Base words: ['piyaulas', 'miyaulas']
+
+Stem: isatr
+Base words: ['uisatr', 'puisatr', 'muisatr']
+
+Stem: laus
+Base words: ['lausu', 'lausaw', 'melaus', 'mulaus', 'nilaus', 'lausi']
+
+Stem: butru
+Base words: ['mibutru', 'ubutru']
+
+Stem: rebu
+Base words: ['tarebu', 'purebu']
+
+Stem: nao
+Base words: ['panao', 'menao']
+
+Stem: senan
+Base words: ['pasenan', 'senanaw']
+
+Stem: na
+Base words: ['kana', 'tana', 'pana', 'mena', 'nau', 'ina']
+
+Stem: asi
+Base words: ['inasi', 'miasi']
+
+Stem: sabalr
+Base words: ['sabalraw', 'sasabalr', 'sabalru']
+
+Stem: kakipa
+Base words: ['mikakipa']
+
+Stem: 
+Base words: ['un', 'aw', 'u', 'i', 'anay', 'mu', 'ka', 'ti', 'ta', 'tu', 'kan', 'sa', 'mi', 'ki', 'an', 'en', 'ku', 'ay']
+
+Stem: patris
+Base words: ['mapatris']
+
+Stem: dopa
+Base words: ['padopa', 'dopaaw', 'dopaanay']
+
+Stem: ranak
+Base words: ['raranak', 'meranak', 'maranak', 'ranaku', 'muranak', 'ranakaw', 'paranak']
+
+Stem: ringitr
+Base words: ['ringitraw', 'ringitru', 'ringitri', 'meringitr', 'raringitr']
+
+Stem: oresap
+Base words: ['mioresap']
+
+Stem: alisodray
+Base words: ['mialisodray', 'pialisodray']
+
+Stem: palingalongan
+Base words: ['pipalingalongan', 'mipalingalongan']
+
+Stem: lolo
+Base words: ['palolo', 'malolo']
+
+Stem: gong
+Base words: ['migong', 'pigong']
+
+Stem: atoto
+Base words: ['paatoto']
+
+Stem: nanku
+Base words: ['kananku']
+
+Stem: otrab
+Base words: ['maotrab', 'otrabay', 'otrabi']
+
+Stem: tabu
+Base words: ['mitabu', 'pitabu', 'putabu']
+
+Stem: to
+Base words: ['kanto', 'pito']
+
+Stem: tenges
+Base words: ['tengesaw', 'tengesay', 'satenges', 'kitenges', 'tengesanay', 'tengesan', 'tengesu']
+
+Stem: lrawa
+Base words: ['melrawa', 'lrawaanay', 'lrawaaw', 'lrawaan', 'lrawau']
+
+Stem: ketketo
+Base words: ['paketketo']
+
+Stem: lawas
+Base words: ['milawas']
+
+Stem: palruwan
+Base words: ['palruwanay', 'papalruwan', 'mipalruwan']
+
+Stem: tatiwis
+Base words: ['mitatiwis']
+
+Stem: putut
+Base words: ['miputut']
+
+Stem: rebay
+Base words: ['rebayi', 'rebayay', 'merebay', 'nirebay']
+
+Stem: rabiyu
+Base words: ['parabiyu']
+
+Stem: yami
+Base words: ['iyami']
+
+Stem: bii
+Base words: ['pubii', 'ubii', 'mubii']
+
+Stem: irup
+Base words: ['emirup', 'irupanay', 'irupan', 'mairup']
+
+Stem: lralrak
+Base words: ['milralrak', 'lralrakan']
+
+Stem: kamelri
+Base words: ['pakamelri']
+
+Stem: berber
+Base words: ['maberber', 'paberber']
+
+Stem: kay
+Base words: ['kikay', 'kayaw', 'tukay', 'kayu', 'sakay']
+
+Stem: pokpok
+Base words: ['pokpokaw', 'kipokpok']
+
+Stem: kamutr
+Base words: ['mikamutr']
+
+Stem: impis
+Base words: ['miimpis']
+
+Stem: alas
+Base words: ['pialas', 'mialas']
+
+Stem: pukpuk
+Base words: ['pukpukaw', 'pukpuku', 'kipukpuk']
+
+Stem: libon
+Base words: ['melibon', 'palibon', 'libonaw']
+
+Stem: yalaos
+Base words: ['miyalaos']
+
+Stem: wangesalr
+Base words: ['uwangesalr']
+
+Stem: traanay
+Base words: ['retraanay']
+
+Stem: kaulep
+Base words: ['pakaulep']
+
+Stem: lapus
+Base words: ['lapusay', 'melapus', 'lapusu', 'lapusaw', 'mulapus']
+
+Stem: poso
+Base words: ['posoi', 'posoay', 'miposo']
+
+Stem: kowang
+Base words: ['mikowang', 'pikowang', 'kowangaw', 'kikowang']
+
+Stem: trangis
+Base words: ['trangisan', 'matrangis']
+
+Stem: wa
+Base words: ['iwa', 'muwa', 'wau', 'wai', 'uwa', 'tuwa', 'rawa', 'tiwa']
+
+Stem: dradraruk
+Base words: ['midradraruk', 'dradrarukan']
+
+Stem: libono
+Base words: ['palibono']
+
+Stem: ko
+Base words: ['kako', 'mako', 'sako', 'miko', 'kanko']
+
+Stem: trakepalro
+Base words: ['patrakepalro']
+
+Stem: adralro
+Base words: ['paadralro']
+
+Stem: katrakatr
+Base words: ['pikatrakatr', 'mikatrakatr']
+
+Stem: akutr
+Base words: ['inakutr', 'maakutr', 'akutru', 'akutranay', 'akutraw']
+
+Stem: takakesi
+Base words: ['takakesian', 'patakakesi']
+
+Stem: kitrkitro
+Base words: ['pakitrkitro']
+
+Stem: elu
+Base words: ['mielu']
+
+Stem: kolriyames
+Base words: ['pakolriyames']
+
+Stem: aputr
+Base words: ['miaputr', 'puaputr', 'piaputr']
+
+Stem: ribas
+Base words: ['ribasu', 'ribasaw', 'raribas', 'muribas', 'meribas']
+
+Stem: yan
+Base words: ['tiyan', 'kuyan', 'yanay', 'iyan']
+
+Stem: retigir
+Base words: ['maretigir', 'karetigir', 'paretigir']
+
+Stem: labu
+Base words: ['milabu']
+
+Stem: ori
+Base words: ['orii', 'emori', 'miori', 'inori']
+
+Stem: dalan
+Base words: ['pudalan', 'midalan', 'mudalan']
+
+Stem: puwar
+Base words: ['puwari', 'puwaray', 'upuwar']
+
+Stem: sangao
+Base words: ['pasangao']
+
+Stem: sowadrsodr
+Base words: ['misowadrsodr']
+
+Stem: bitrenon
+Base words: ['mibitrenon']
+
+Stem: madradrayar
+Base words: ['kimadradrayar']
+
+Stem: no
+Base words: ['ino', 'kano', 'noan']
+
+Stem: pudrung
+Base words: ['mipudrung', 'pudrungay']
+
+Stem: kulriyames
+Base words: ['pakulriyames']
+
+Stem: kowarabakan
+Base words: ['mikowarabakan']
+
+Stem: barariwan
+Base words: ['kabarariwan']
+
+Stem: rasok
+Base words: ['pirasok', 'mirasok']
+
+Stem: walak
+Base words: ['puwalak', 'muwalak']
+
+Stem: kala
+Base words: ['makala']
+
+Stem: sioy
+Base words: ['misioy']
+
+Stem: rebo
+Base words: ['tarebo']
+
+Stem: gimpo
+Base words: ['migimpo', 'pigimpo']
+
+Stem: akotr
+Base words: ['akotranay', 'inakotr', 'akotraw', 'maakotr']
+
+Stem: nguwayan
+Base words: ['munguwayan']
+
+Stem: lremes
+Base words: ['lremesaw', 'ilremes', 'mulremes', 'malremes']
+
+Stem: nanaowan
+Base words: ['pananaowan', 'ninanaowan']
+
+Stem: pongalad
+Base words: ['kipongalad', 'pongaladay', 'pongaladi']
+
+Stem: nguwayanguwayan
+Base words: ['inguwayanguwayan']
+
+Stem: palro
+Base words: ['papalro']
+
+Stem: arebo
+Base words: ['miarebo']
+
+Stem: buaw
+Base words: ['kibuaw']
+
+Stem: kinasu
+Base words: ['mikinasu']
+
+Stem: kalralregiyan
+Base words: ['mikalralregiyan']
+
+Stem: kawil
+Base words: ['kawilanay', 'kawilaw', 'kawilu', 'kakawil', 'kawili']
+
+Stem: bini
+Base words: ['mabini', 'pubini']
+
+Stem: tukudr
+Base words: ['tatukudr', 'tukudru', 'tukudraw', 'tukudranay']
+
+Stem: saw
+Base words: ['kisaw', 'isaw', 'masaw']
+
+Stem: riyasalr
+Base words: ['pariyasalr']
+
+Stem: naisuwa
+Base words: ['kanaisuwa']
+
+Stem: drini
+Base words: ['idrini', 'kadrini', 'kandrini']
+
+Stem: inaba
+Base words: ['kainaba']
+
+Stem: tibus
+Base words: ['katibus']
+
+Stem: nawan
+Base words: ['minawan']
+
+Stem: ramiyan
+Base words: ['saramiyan']
+
+Stem: salrekudran
+Base words: ['misalrekudran', 'pisalrekudran']
+
+Stem: sabak
+Base words: ['usabak', 'pusabak', 'musabak']
+
+Stem: lees
+Base words: ['malees']
+
+Stem: uraw
+Base words: ['sauraw', 'tauraw']
+
+Stem: sile
+Base words: ['sileay', 'musile']
+
+Stem: lu
+Base words: ['tulu', 'pulu', 'ilu', 'palu', 'tilu', 'milu', 'malu']
+
+Stem: paaetreng
+Base words: ['kapaaetreng']
+
+Stem: lrangtrangtraan
+Base words: ['milrangtrangtraan']
+
+Stem: kirowan
+Base words: ['pikirowan', 'mikirowan']
+
+Stem: masaseredr
+Base words: ['kimasaseredr']
+
+Stem: angero
+Base words: ['angeroan', 'kiangero']
+
+Stem: dinwa
+Base words: ['padinwa']
+
+Stem: babalu
+Base words: ['mibabalu', 'kababalu']
+
+Stem: trunga
+Base words: ['mitrunga']
+
+Stem: yu
+Base words: ['tiyu', 'miyu', 'kayu', 'kiyu']
+
+Stem: palakuwan
+Base words: ['mipalakuwan']
+
+Stem: sunung
+Base words: ['usunung', 'musunung', 'sununganay', 'sunungan']
+
+Stem: koriyo
+Base words: ['pakoriyo']
+
+Stem: taudrung
+Base words: ['itaudrung']
+
+Stem: busbus
+Base words: ['mubusbus', 'busbusaw']
+
+Stem: dreli
+Base words: ['dreliay', 'padreli']
+
+Stem: numa
+Base words: ['munuma']
+
+Stem: pulranga
+Base words: ['kipulranga']
+
+Stem: keskeso
+Base words: ['pakeskeso']
+
+Stem: salrito
+Base words: ['pasalrito']
+
+Stem: lapungas
+Base words: ['lapungasi', 'lapungasaw', 'mulapungas']
+
+Stem: pokoy
+Base words: ['pokoyaw', 'pipokoy', 'mipokoy']
+
+Stem: nu
+Base words: ['runu', 'inu', 'kunu', 'kanu', 'nuan']
+
+Stem: sabesab
+Base words: ['sabesabay', 'sabesabi', 'musabesab']
+
+Stem: guta
+Base words: ['puguta']
+
+Stem: soro
+Base words: ['kisoro', 'soroi', 'soroay']
+
+Stem: nanu
+Base words: ['kananu']
+
+Stem: sedeo
+Base words: ['kasedeo', 'pasedeo']
+
+Stem: ninik
+Base words: ['mininik']
+
+Stem: udall
+Base words: ['maudall']
+
+Stem: ising
+Base words: ['paising', 'kaising']
+
+Stem: kedrang
+Base words: ['mikedrang', 'kakedrang', 'pukedrang']
+
+Stem: oled
+Base words: ['mioled']
+
+Stem: wadrangiyan
+Base words: ['puwadrangiyan', 'uwadrangiyan']
+
+Stem: kadru
+Base words: ['kikadru']
+
+Stem: likolraw
+Base words: ['milikolraw']
+
+Stem: draya
+Base words: ['mudraya']
+
+Stem: kakuda
+Base words: ['makakuda', 'kakakuda']
+
+Stem: a
+Base words: ['taa', 'paa', 'aaw', 'kana', 'uma', 'ina']
+
+Stem: motimol
+Base words: ['timotimol']
+
+Stem: salem
+Base words: ['sasalem', 'salemanay', 'salemi', 'pasalem', 'salemay', 'saleman']
+
+Stem: golowan
+Base words: ['kagolowan']
+
+Stem: linay
+Base words: ['palinay', 'kalinay', 'malinay']
+
+Stem: tubilr
+Base words: ['pitubilr', 'mitubilr']
+
+Stem: lretra
+Base words: ['salretra', 'mulretra', 'melretra']
+
+Stem: lubuk
+Base words: ['milubuk', 'pilubuk']
+
+Stem: babaawan
+Base words: ['kababaawan']
+
+Stem: kuwatis
+Base words: ['mukuwatis', 'kuwatisan']
+
+Stem: drunu
+Base words: ['kadrunu', 'idrunu']
+
+Stem: ringring
+Base words: ['ringringan', 'ringringu', 'meringring', 'ringringaw']
+
+Stem: tralon
+Base words: ['mitralon']
+
+Stem: iyam
+Base words: ['puiyam', 'iyami', 'iniyam', 'kaniyam', 'miiyam', 'emiyam']
+
+Stem: langutr
+Base words: ['malangutr']
+
+Stem: resiyok
+Base words: ['resiyokanay', 'resiyokaw', 'raresiyok', 'resiyokan', 'niresiyok', 'maresiyok']
+
+Stem: likaw
+Base words: ['mulikaw', 'ulikaw', 'malikaw', 'likawaw', 'tulikaw', 'likawu']
+
+Stem: yalaus
+Base words: ['miyalaus']
+
+Stem: trapelru
+Base words: ['mitrapelru', 'pitrapelru']
+
+Stem: utubay
+Base words: ['miutubay']
+
+Stem: libun
+Base words: ['libunu', 'melibun', 'palibun', 'libunaw']
+
+Stem: liyay
+Base words: ['maliyay', 'liyayan']
+
+Stem: tabo
+Base words: ['pitabo', 'mitabo']
+
+Stem: dranga
+Base words: ['madranga', 'padranga', 'kadranga']
+
+Stem: ya
+Base words: ['tiya', 'iya', 'saya', 'muya', 'piya', 'maya', 'niya']
+
+Stem: tuktuk
+Base words: ['tuktukaw', 'mutuktuk', 'tuktukanay', 'tuktuku', 'tuktukan']
+
+Stem: dradrarok
+Base words: ['dradrarokan', 'midradrarok']
+
+Stem: lrikaka
+Base words: ['milrikaka']
+
+Stem: talrabiyaw
+Base words: ['mitalrabiyaw']
+
+Stem: paring
+Base words: ['paringi', 'paparing', 'paringan']
+
+Stem: idraudr
+Base words: ['idraudru', 'maidraudr', 'idraudraw']
+
+Stem: kepelaw
+Base words: ['pakepelaw']
+
+Stem: lealaw
+Base words: ['malealaw', 'lealaway']
+
+Stem: renab
+Base words: ['parenab']
+
+Stem: walrak
+Base words: ['puwalrak', 'miwalrak', 'piwalrak']
+
+Stem: saigu
+Base words: ['saiguan', 'kasaigu']
+
+Stem: lraud
+Base words: ['lraudu', 'palraud', 'lraudaw', 'mulraud']
+
+Stem: aebes
+Base words: ['miaebes']
+
+Stem: tosok
+Base words: ['tosokanay', 'kitosok', 'tatosok', 'tosokaw', 'tosokan']
+
+Stem: rekes
+Base words: ['purekes', 'rekesanay', 'rekesan', 'rekesu', 'rekesaw', 'merekes', 'murekes']
+
+Stem: trekipo
+Base words: ['patrekipo']
+
+Stem: sara
+Base words: ['sasara']
+
+Stem: lapos
+Base words: ['laposaw', 'laposay', 'melapos']
+
+Stem: lo
+Base words: ['kilo', 'milo', 'palo', 'ilo', 'tilo', 'malo']
+
+Stem: eres
+Base words: ['emeres', 'mueres', 'paeres', 'eresaw']
+
+Stem: pollang
+Base words: ['pollangay', 'papollang']
+
+Stem: butri
+Base words: ['ubutri', 'mabutri']
+
+Stem: trole
+Base words: ['matrole']
+
+Stem: mali
+Base words: ['mimali']
+
+Stem: nguranguran
+Base words: ['manguranguran']
+
+Stem: kaaodalr
+Base words: ['pakaaodalr']
+
+Stem: ungitr
+Base words: ['miungitr']
+
+Stem: apawpaw
+Base words: ['kaapawpaw']
+
+Stem: garotr
+Base words: ['garotray', 'migarotr']
+
+Stem: esep
+Base words: ['paesep', 'esepay', 'esepi']
+
+Stem: yayar
+Base words: ['niyayar', 'yayaru', 'meyayar', 'yayaraw', 'muyayar', 'yayaran', 'yayaranay']
+
+Stem: dri
+Base words: ['kadri', 'kandri', 'idri']
+
+Stem: lelep
+Base words: ['mulelep', 'melelep', 'lelepu', 'lelepaw']
+
+Stem: solrod
+Base words: ['solrodan', 'sasolrod', 'solrodanay']
+
+Stem: lrang
+Base words: ['milrang', 'palrang', 'pilrang', 'ulrang', 'pulrang', 'kalrang']
+
+Stem: walru
+Base words: ['miwalru']
+
+Stem: kaysing
+Base words: ['kaysingan', 'pikaysing', 'mikaysing']
+
+Stem: udung
+Base words: ['udungaw', 'udungay', 'inudung', 'saudung', 'muudung', 'udunganay', 'udungu', 'emudung']
+
+Stem: lritek
+Base words: ['palritek', 'lritekan']
+
+Stem: boelras
+Base words: ['maboelras']
+
+Stem: dawill
+Base words: ['mudawill']
+
+Stem: kelrong
+Base words: ['makelrong']
+
+Stem: toka
+Base words: ['tokaan', 'matoka']
+
+Stem: niyam
+Base words: ['iniyam', 'kaniyam']
+
+Stem: trungulr
+Base words: ['patrungulr', 'trungulray', 'trungulri', 'trungulraw']
+
+Stem: lingedr
+Base words: ['nilingedr', 'lingedri', 'mulingedr', 'melingedr']
+
+Stem: trautrau
+Base words: ['tutrautrau']
+
+Stem: lrisaw
+Base words: ['melrisaw', 'lrisaway', 'lrisawi']
+
+Stem: sakerop
+Base words: ['sakeropaw', 'pisakerop', 'misakerop']
+
+Stem: puut
+Base words: ['mipuut']
+
+Stem: pakpak
+Base words: ['mapakpak', 'mipakpak']
+
+Stem: ladaladam
+Base words: ['ladaladamu', 'niladaladam', 'ladaladaman', 'paladaladam', 'meladaladam', 'ladaladamaw', 'ladaladami']
+
+Stem: redres
+Base words: ['redresu', 'muredres', 'uredres', 'redresaw']
+
+Stem: puwalima
+Base words: ['mipuwalima']
+
+Stem: apuy
+Base words: ['miapuy']
+
+Stem: tuwap
+Base words: ['mituwap']
+
+Stem: nana
+Base words: ['nanau', 'kanana', 'panana']
+
+Stem: trelre
+Base words: ['matrelre']
+
+Stem: sabon
+Base words: ['misabon', 'saboni', 'sabonay']
+
+Stem: tolas
+Base words: ['tolasan', 'matolas']
+
+Stem: maranan
+Base words: ['imaranan']
+
+Stem: riterit
+Base words: ['meriterit', 'riteritu', 'riteritaw']
+
+Stem: naniwan
+Base words: ['ninaniwan', 'naniwanan', 'menaniwan']
+
+Stem: koyan
+Base words: ['mikoyan']
+
+Stem: boriawan
+Base words: ['kaboriawan', 'paboriawan']
+
+Stem: pakabulay
+Base words: ['pakabulayay', 'kipakabulay', 'pakabulayi']
+
+Stem: laun
+Base words: ['melaun']
+
+Stem: bulan
+Base words: ['sabulan']
+
+Stem: sasudang
+Base words: ['misasudang']
+
+Stem: drana
+Base words: ['midrana', 'pidrana']
+
+Stem: aya
+Base words: ['kiaya', 'ayaan', 'maaya', 'ayaaw', 'ayau']
+
+Stem: dupa
+Base words: ['padupa', 'dupaaw', 'dupau', 'dupaanay']
+
+Stem: siyakasik
+Base words: ['kasiyakasik', 'masiyakasik']
+
+Stem: buelras
+Base words: ['mabuelras']
+
+Stem: saero
+Base words: ['kasaero']
+
+Stem: dolras
+Base words: ['madolras']
+
+Stem: kaput
+Base words: ['mikaput']
+
+Stem: wariyan
+Base words: ['sawariyan', 'puwariyan']
+
+Stem: elo
+Base words: ['mielo']
+
+Stem: pawti
+Base words: ['mipawti']
+
+Stem: etu
+Base words: ['tuetu', 'mietu', 'pietu']
+
+Stem: asepan
+Base words: ['kiasepan']
+
+Stem: nanao
+Base words: ['menanao', 'pananao']
+
+Stem: lrobot
+Base words: ['milrobot', 'pilrobot']
+
+Stem: salriabung
+Base words: ['pisalriabung', 'misalriabung']
+
+Stem: yo
+Base words: ['iyo', 'kiyo', 'tiyo', 'kayo', 'miyo']
+
+Stem: kuwang
+Base words: ['kuwangaw', 'mikuwang', 'pikuwang', 'kikuwang', 'kuwangu']
+
+Stem: idros
+Base words: ['miidros', 'piidros']
+
+Stem: dalreo
+Base words: ['kadalreo']
+
+Stem: puwangalad
+Base words: ['ipuwangalad', 'puwangaladan', 'puwangaladi']
+
+Stem: kabong
+Base words: ['pikabong', 'mikabong']
+
+Stem: trai
+Base words: ['mutrai', 'retrai']
+
+Stem: boli
+Base words: ['maboli', 'boliaw']
+
+Stem: lrimos
+Base words: ['melrimos', 'lrimosaw', 'palrimos']
+
+Stem: puwamatra
+Base words: ['mipuwamatra']
+
+Stem: dawilr
+Base words: ['pudawilr', 'padawilr', 'mudawilr']
+
+Stem: ba
+Base words: ['bau', 'baaw', 'tuba', 'baay']
+
+Stem: upidr
+Base words: ['upidru', 'inupidr', 'upidraw', 'emupidr', 'upidranay', 'maupidr']
+
+Stem: balad
+Base words: ['baladu', 'baladaw', 'mubalad']
+
+Stem: maowan
+Base words: ['samaowan']
+
+Stem: lialu
+Base words: ['lialuaw', 'lialuu', 'malialu']
+
+Stem: tolodran
+Base words: ['tolodranay', 'tatolodran']
+
+Stem: timos
+Base words: ['timosan', 'tatimos']
+
+Stem: lrigaw
+Base words: ['milrigaw']
+
+Stem: raik
+Base words: ['meraik', 'raiki', 'raikay']
+
+Stem: lra
+Base words: ['tulra', 'palra', 'melra', 'kalra', 'pilra']
+
+Stem: putre
+Base words: ['miputre']
+
+Stem: kataguwin
+Base words: ['pikataguwin', 'mikataguwin']
+
+Stem: king
+Base words: ['uking', 'iking']
+
+Stem: koliling
+Base words: ['mikoliling']
+
+Stem: paetreng
+Base words: ['kapaetreng', 'paetrengi', 'paetrengay']
+
+Stem: balri
+Base words: ['mibalri', 'mubalri']
+
+Stem: kadro
+Base words: ['kikadro']
+
+Stem: alra
+Base words: ['mialra', 'alrai']
+
+Stem: olrang
+Base words: ['maolrang']
+
+Stem: kur
+Base words: ['kuri', 'mikur', 'kuraw', 'ikur']
+
+Stem: poloom
+Base words: ['poloomi', 'kipoloom', 'poloomay']
+
+Stem: mauwan
+Base words: ['samauwan']
+
+Stem: ulepan
+Base words: ['maulepan']
+
+Stem: bilin
+Base words: ['bilinay', 'ubilin', 'bilinanay', 'bilini', 'bilinaw', 'mubilin', 'bilinu']
+
+Stem: raripaan
+Base words: ['piraripaan', 'miraripaan']
+
+Stem: trepuku
+Base words: ['patrepuku']
+
+Stem: liyus
+Base words: ['liyusaw', 'muliyus', 'piliyus', 'liyusan', 'meliyus', 'uliyus', 'paliyus', 'liyusu']
+
+Stem: tobang
+Base words: ['tobangaw', 'tatobang']
+
+Stem: seer
+Base words: ['seeranay', 'paseer', 'seeran']
+
+Stem: manoden
+Base words: ['mimanoden']
+
+Stem: lomek
+Base words: ['melomek', 'lomekaw']
+
+Stem: madradrayara
+Base words: ['kimadradrayara']
+
+Stem: otobay
+Base words: ['miotobay']
+
+Stem: lraman
+Base words: ['lramanan', 'kalraman', 'lramani', 'talraman', 'kilraman', 'lramanay', 'lramanaw']
+
+Stem: dalrep
+Base words: ['mudalrep']
+
+Stem: lrimus
+Base words: ['melrimus', 'palrimus', 'lrimusaw']
+
+Stem: tranguru
+Base words: ['kitranguru', 'mitranguru']
+
+Stem: potiyan
+Base words: ['sapotiyan']
+
+Stem: puran
+Base words: ['mipuran']
+
+Stem: salriabong
+Base words: ['pisalriabong', 'misalriabong']
+
+Stem: idrang
+Base words: ['maidrang', 'idrangan']
+
+Stem: sepa
+Base words: ['sasepa', 'sepau', 'sepaaw']
+
+Stem: bunay
+Base words: ['sabunay']
+
+Stem: runi
+Base words: ['paruni', 'maruni']
+
+Stem: rabak
+Base words: ['kurabak', 'rabaki', 'murabak']
+
+Stem: tamayan
+Base words: ['tatamayan']
+
+Stem: polrot
+Base words: ['polrotaw', 'mapolrot']
+
+Stem: wari
+Base words: ['puwari', 'miwari']
+
+Stem: tiato
+Base words: ['tiatoi', 'tiatoaw', 'matiato']
+
+Stem: trangar
+Base words: ['mitrangar']
+
+Stem: punun
+Base words: ['mipunun', 'sapunun']
+
+Stem: patraran
+Base words: ['papatraran', 'mupatraran', 'upatraran', 'pupatraran']
+
+Stem: ruma
+Base words: ['muruma', 'taruma', 'rumaan', 'puruma', 'miruma', 'uruma']
+
+Stem: lla
+Base words: ['kalla']
+
+Stem: riwak
+Base words: ['riwakay', 'niriwak', 'meriwak', 'riwaki']
+
+Stem: eto
+Base words: ['pieto', 'mieto']
+
+Stem: lubitr
+Base words: ['milubitr']
+
+Stem: kedreng
+Base words: ['pakedreng', 'mukedreng', 'kedrengu', 'kedrengaw']
+
+Stem: itrol
+Base words: ['itrolanay', 'paitrol', 'itrolay', 'emitrol', 'itrolaw', 'itroli']
+
+Stem: takilr
+Base words: ['patakilr', 'mitakilr', 'tatakilr']
+
+Stem: kapot
+Base words: ['mikapot']
+
+Stem: kelrung
+Base words: ['makelrung']
+
+Stem: karidr
+Base words: ['mukaridr', 'karidraw']
+
+Stem: pakto
+Base words: ['pipakto', 'mipakto']
+
+Stem: polrang
+Base words: ['polrangi', 'kipolrang', 'polrangay']
+
+Stem: kitalrodro
+Base words: ['pakitalrodro']
+
+Stem: amao
+Base words: ['kaamao']
+
+Stem: trepa
+Base words: ['patrepa', 'mitrepa']
+
+Stem: doay
+Base words: ['midoay']
+
+Stem: paktu
+Base words: ['mipaktu', 'pipaktu']
+
+Stem: lulu
+Base words: ['malulu', 'palulu']
+
+Stem: turak
+Base words: ['turaku', 'taturak', 'miturak']
+
+Stem: senay
+Base words: ['pasenay', 'senayu', 'sasenay', 'senayan', 'senayaw']
+
+Stem: lratudr
+Base words: ['lratudray', 'melratudr', 'lratudri']
+
+Stem: trarob
+Base words: ['trarobay', 'trarobi', 'mitrarob', 'pitrarob']
+
+Stem: mayay
+Base words: ['tamayay']
+
+Stem: sauiyu
+Base words: ['misauiyu']
+
+Stem: iris
+Base words: ['miiris', 'piiris']
+
+Stem: sasodang
+Base words: ['misasodang']
+
+Stem: roni
+Base words: ['paroni', 'maroni']
+
+Stem: sanan
+Base words: ['masanan']
+
+Stem: adalus
+Base words: ['kaadalus']
+
+Stem: buwang
+Base words: ['buwangi', 'mibuwang', 'mabuwang', 'buwangay']
+
+Stem: drowadroko
+Base words: ['padrowadroko']
+
+Stem: taroan
+Base words: ['mitaroan']
+
+Stem: pangedas
+Base words: ['mapangedas']
+
+Stem: tratra
+Base words: ['mutratra']
+
+Stem: sidrong
+Base words: ['misidrong']
+
+Stem: bosisi
+Base words: ['mibosisi']
+
+Stem: lralrimaw
+Base words: ['lralrimaway', 'melralrimaw', 'palralrimaw', 'lralrimawan']
+
+Stem: kipetedr
+Base words: ['mukipetedr', 'kipetedru', 'kipetedraw']
+
+Stem: liputr
+Base words: ['niliputr', 'liputru', 'liputranay', 'meliputr', 'liputraw', 'saliputr']
+
+Stem: rawraw
+Base words: ['rawrawu', 'marawraw', 'merawraw', 'rawrawaw']
+
+Stem: asowasowa
+Base words: ['kaasowasowa']
+
+Stem: tinnaw
+Base words: ['mitinnaw']
+
+Stem: biyaw
+Base words: ['pubiyaw', 'rabiyaw', 'mibiyaw']
+
+Stem: tabukulr
+Base words: ['tabukulranay', 'tabukulru', 'mutabukulr', 'tabukulraw']
+
+Stem: laudr
+Base words: ['mulaudr']
+
+Stem: salrekodran
+Base words: ['misalrekodran', 'pisalrekodran']
+
+Stem: sekadr
+Base words: ['isekadr', 'musekadr', 'pasekadr', 'sasekadr']
+
+Stem: maw
+Base words: ['umaw', 'mawan', 'kamaw', 'kumaw']
+
+Stem: sikaw
+Base words: ['misikaw']
+
+Stem: drulun
+Base words: ['kidrulun', 'druluni', 'drulunay', 'padrulun', 'drulunanay']
+
+Stem: basibas
+Base words: ['mubasibas']
+
+Stem: lodos
+Base words: ['milodos']
+
+Stem: laulaudr
+Base words: ['mulaulaudr']
+
+Stem: atut
+Base words: ['atutu', 'miatut', 'atutanay', 'atutaw', 'atutan']
+
+Stem: piratr
+Base words: ['mupiratr', 'piratru', 'piratraw']
+
+Stem: riyaenup
+Base words: ['mariyaenup']
+
+Stem: saigowan
+Base words: ['kisaigowan', 'kasaigowan']
+
+Stem: talrosabang
+Base words: ['mitalrosabang']
+
+Stem: korkoro
+Base words: ['pakorkoro']
+
+Stem: boresokan
+Base words: ['miboresokan']
+
+Stem: bekutr
+Base words: ['mubekutr', 'bekutru', 'bekutraw']
+
+Stem: lais
+Base words: ['malais']
+
+Stem: retogon
+Base words: ['karetogon', 'maretogon']
+
+Stem: etreetr
+Base words: ['maetreetr', 'etreetranay', 'emetreetr', 'etreetran']
+
+Stem: niyubayup
+Base words: ['miniyubayup']
+
+Stem: lodolodos
+Base words: ['milodolodos']
+
+Stem: bitrbitraw
+Base words: ['pabitrbitraw']
+
+Stem: sangeut
+Base words: ['kasangeut']
+
+Stem: lapedak
+Base words: ['melapedak', 'lapedakaw', 'lapedaku', 'mulapedak']
+
+Stem: druwa
+Base words: ['padruwa', 'kadruwa']
+
+Stem: lratodr
+Base words: ['lratodray', 'lratodri', 'melratodr']
+
+Stem: iring
+Base words: ['pairing', 'mairing', 'iringu', 'emiring', 'iringaw']
+
+Stem: lrongpaw
+Base words: ['pilrongpaw', 'milrongpaw']
+
+Stem: damok
+Base words: ['midamok']
+
+Stem: torak
+Base words: ['mitorak', 'tatorak']
+
+Stem: dradrulun
+Base words: ['padradrulun', 'madradrulun', 'dradrulunan']
+
+Stem: asalr
+Base words: ['asalraw', 'muasalr', 'inasalr', 'asalri', 'paasalr', 'asalru', 'emasalr']
+
+Stem: luum
+Base words: ['puluum', 'piluum', 'miluum']
+
+Stem: alipespes
+Base words: ['alipespesu', 'mualipespes', 'emalipespes', 'alipespesaw']
+
+Stem: trekel
+Base words: ['trekelay', 'trekeli', 'patrekel']
+
+Stem: trapelro
+Base words: ['pitrapelro', 'mitrapelro']
+
+Stem: sota
+Base words: ['misota', 'sotaaw']
+
+Stem: abetes
+Base words: ['kaabetes']
+
+Stem: kadomo
+Base words: ['kikadomo']
+
+Stem: tilin
+Base words: ['mitilin']
+
+Stem: lidring
+Base words: ['palidring', 'milidring']
+
+Stem: matatengedr
+Base words: ['kimatatengedr']
+
+Stem: itrolo
+Base words: ['paitrolo']
+
+Stem: adro
+Base words: ['kanadro', 'kaadro']
+
+Stem: kema
+Base words: ['kakema']
+
+Stem: lameduk
+Base words: ['malameduk', 'lamedukaw', 'lameduku']
+
+Stem: saerowan
+Base words: ['kasaerowan']
+
+Stem: trektrek
+Base words: ['matrektrek']
+
+Stem: dare
+Base words: ['udare', 'pudare', 'kidare', 'mudare']
+
+Stem: suwa
+Base words: ['isuwa']
+
+Stem: langtri
+Base words: ['melangtri', 'langtriaw', 'langtriu']
+
+Stem: polo
+Base words: ['papolo']
+
+Stem: oram
+Base words: ['emoram', 'maoram', 'oramay', 'orami']
+
+Stem: tililr
+Base words: ['tililri', 'tililray', 'putililr']
+
+Stem: babalis
+Base words: ['mubabalis', 'babalisan']
+
+Stem: nilrangan
+Base words: ['inilrangan']
+
+Stem: etib
+Base words: ['etibaw', 'saetib', 'etibu']
+
+Stem: sowan
+Base words: ['misowan', 'kasowan']
+
+Stem: kamotr
+Base words: ['mikamotr']
+
+Stem: edad
+Base words: ['miedad']
+
+Stem: paetang
+Base words: ['pipaetang', 'mipaetang']
+
+Stem: katrung
+Base words: ['makatrung']
+
+Stem: atot
+Base words: ['miatot', 'atotaw', 'atotanay', 'atotan']
+
+Stem: garamgam
+Base words: ['pagaramgam', 'garamgaman']
+
+Stem: bangabangan
+Base words: ['kabangabangan']
+
+Stem: kakupu
+Base words: ['mikakupu', 'kikakupu', 'kakupuaw', 'pikakupu']
+
+Stem: likudrakudran
+Base words: ['pulikudrakudran', 'mulikudrakudran']
+
+Stem: nger
+Base words: ['unger']
+
+Stem: kasu
+Base words: ['kakasu']
+
+Stem: salay
+Base words: ['salayi', 'salayay', 'pusalay']
+
+Stem: kalralruwatr
+Base words: ['pukalralruwatr']
+
+Stem: sama
+Base words: ['musama', 'samaan', 'misama', 'samaanay']
+
+Stem: taramaw
+Base words: ['pataramaw', 'taramawi', 'taramaway']
+
+Stem: reaani
+Base words: ['mareaani']
+
+Stem: nanemo
+Base words: ['kananemo']
+
+Stem: tiatu
+Base words: ['matiatu', 'tiatui', 'tiatuaw']
+
+Stem: nay
+Base words: ['manay', 'sanay', 'panay']
+
+Stem: tenger
+Base words: ['tengeru', 'tengeraw', 'mutenger']
+
+Stem: balakenitr
+Base words: ['mibalakenitr']
+
+Stem: kiyadakod
+Base words: ['mikiyadakod']
+
+Stem: pauwayan
+Base words: ['mipauwayan', 'pauwayanay']
+
+Stem: rasuk
+Base words: ['mirasuk', 'pirasuk']
+
+Stem: owa
+Base words: ['paowa', 'iowa']
+
+Stem: dadiros
+Base words: ['padadiros', 'dadirosan']
+
+Stem: temuwan
+Base words: ['mitemuwan']
+
+Stem: letrletr
+Base words: ['letrletru', 'meletrletr', 'letrletraw']
+
+Stem: kiyaanun
+Base words: ['kiyaanunan', 'ikiyaanun']
+
+Stem: padang
+Base words: ['papadang', 'padangu', 'padangaw', 'padanganay']
+
+Stem: takadr
+Base words: ['mitakadr']
+
+Stem: druwadrukaw
+Base words: ['padruwadrukaw']
+
+Stem: driketran
+Base words: ['midriketran']
+
+Stem: lraod
+Base words: ['palraod', 'lraodaw']
+
+Stem: abel
+Base words: ['abelaw', 'emabel', 'inabel', 'maabel', 'abelu']
+
+Stem: lrubut
+Base words: ['milrubut', 'pilrubut']
+
+Stem: paisu
+Base words: ['mipaisu']
+
+Stem: ayam
+Base words: ['miayam']
+
+Stem: riyaenop
+Base words: ['mariyaenop']
+
+Stem: yo-ci
+Base words: ['iyo-ci']
+
+Stem: tengadraw
+Base words: ['matengadraw', 'katengadraw', 'patengadraw']
+
+Stem: buir
+Base words: ['kibuir']
+
+Stem: pitaon
+Base words: ['mipitaon']
+
+Stem: druwayaw
+Base words: ['padruwayaw']
+
+Stem: kadumu
+Base words: ['kikadumu']
+
+Stem: sariyaw
+Base words: ['pasariyaw']
+
+Stem: aliw
+Base words: ['kialiw', 'aliwaw', 'paaliw', 'aliwu', 'aliwanay']
+
+Stem: biyatr
+Base words: ['mubiyatr', 'biyatraw', 'biyatru']
+
+Stem: tamina
+Base words: ['mitamina']
+
+Stem: pangal
+Base words: ['sapangal']
+
+Stem: iyabureng
+Base words: ['miiyabureng', 'iyaburengay']
+
+Stem: tusuk
+Base words: ['tusukan', 'tusuku', 'tusukaw', 'tatusuk', 'kitusuk', 'tusukanay']
+
+Stem: gomolr
+Base words: ['migomolr']
+
+Stem: kirepaowa
+Base words: ['pakirepaowa']
+
+Stem: pakaron
+Base words: ['pakaronay', 'kipakaron', 'pakaronan']
+
+Stem: kiyapkip
+Base words: ['mikiyapkip']
+
+Stem: aleso
+Base words: ['paaleso']
+
+Stem: keris
+Base words: ['kakeris', 'kerisay', 'kerisi']
+
+Stem: palru
+Base words: ['papalru']
+
+Stem: ponon
+Base words: ['miponon', 'saponon']
+
+Stem: likedran
+Base words: ['melikedran', 'pilikedran', 'milikedran']
+
+Stem: bungu
+Base words: ['mabungu']
+
+Stem: alreb
+Base words: ['maalreb', 'alrebay', 'emalreb', 'alrebi', 'alreban']
+
+Stem: baboyolr
+Base words: ['mibaboyolr']
+
+Stem: walro
+Base words: ['miwalro']
+
+Stem: kongkong
+Base words: ['takongkong']
+
+Stem: subuk
+Base words: ['subukay', 'subuki', 'subukanay', 'musubuk']
+
+Stem: lemo
+Base words: ['lemoan', 'malemo']
+
+Stem: betan
+Base words: ['pubetan', 'mibetan']
+
+Stem: disdis
+Base words: ['disdisaw', 'disdisu', 'mudisdis']
+
+Stem: romaroma
+Base words: ['raromaroma']
+
+Stem: atedr
+Base words: ['ematedr', 'kiatedr', 'paatedr', 'atedran', 'atedranay']
+
+Stem: lreap
+Base words: ['lreapay', 'pilreap', 'lreapanay', 'milreap', 'lreapi', 'lreapan']
+
+Stem: boebo
+Base words: ['piboebo', 'paboebo', 'miboebo']
+
+Stem: kalipang
+Base words: ['mikalipang', 'pikalipang']
+
+Stem: aipo
+Base words: ['paaipo']
+
+Stem: oma
+Base words: ['raoma']
+
+Stem: relreng
+Base words: ['mirelreng']
+
+Stem: suwan
+Base words: ['kasuwan', 'misuwan']
+
+Stem: ngalad
+Base words: ['mingalad', 'pungalad']
+
+Stem: obi
+Base words: ['saobi', 'obii']
+
+Stem: trarub
+Base words: ['mitrarub', 'trarubi', 'pitrarub', 'trarubay']
+
+Stem: pungulr
+Base words: ['sapungulr', 'pungulran']
+
+Stem: ngadir
+Base words: ['mengadir']
+
+Stem: ami
+Base words: ['kiami', 'saami', 'muami', 'puami', 'uami']
+
+Stem: lipedr
+Base words: ['lipedru', 'lipedraw', 'mulipedr', 'nilipedr']
+
+Stem: kuriyu
+Base words: ['pakuriyu']
+
+Stem: siku
+Base words: ['pusiku']
+
+Stem: potenok
+Base words: ['kipotenok']
+
+Stem: towa
+Base words: ['pitowa']
+
+Stem: ngalra
+Base words: ['kingalra', 'mingalra']
+
+Stem: madrayar
+Base words: ['kimadrayar']
+
+Stem: loki
+Base words: ['paloki', 'lokiaw']
+
+Stem: garutr
+Base words: ['migarutr', 'garutray']
+
+Stem: kiratr
+Base words: ['makiratr']
+
+Stem: kiyur
+Base words: ['kakiyur', 'kiyuru', 'kiyuraw']
+
+Stem: tinakesian
+Base words: ['mitinakesian']
+
+Stem: retra
+Base words: ['niretra', 'raretra', 'meretra', 'retrai', 'retraanay', 'retraan', 'retraay', 'muretra']
+
+Stem: lrangtup
+Base words: ['lrangtupay', 'melrangtup']
+
+Stem: rauban
+Base words: ['marauban', 'karauban']
+
+Stem: riyadraridr
+Base words: ['meriyadraridr']
+
+Stem: druwadruku
+Base words: ['padruwadruku']
+
+Stem: alisudray
+Base words: ['pialisudray', 'mialisudray']
+
+Stem: wakasayan
+Base words: ['uwakasayan']
+
+Stem: saputr
+Base words: ['saputraw', 'saputru', 'sasaputr']
+
+Stem: ragan
+Base words: ['maragan', 'karagan', 'paragan']
+
+Stem: lrangtop
+Base words: ['melrangtop', 'lrangtopay']
+
+Stem: sungal
+Base words: ['sungalu', 'sungalaw', 'sasungal']
+
+Stem: nirangeran
+Base words: ['minirangeran']
+
+Stem: kulang
+Base words: ['kikulang']
+
+Stem: laos
+Base words: ['melaos', 'laosaw', 'nilaos', 'laosi']
+
+Stem: adriyan
+Base words: ['kaadriyan']
+
+Stem: lrasedr
+Base words: ['ulrasedr', 'lrasedraw', 'melrasedr', 'lrasedru', 'mulrasedr', 'nilrasedr']
+
+Stem: betreker
+Base words: ['kabetreker']
+
+Stem: o
+Base words: ['emo', 'mao', 'ino', 'kano', 'tao', 'oaw']
+
+Stem: asiru
+Base words: ['kiasiru']
+
+Stem: asiro
+Base words: ['kiasiro']
+
+Stem: kuris
+Base words: ['makuris']
+
+Stem: trangila
+Base words: ['mitrangila', 'putrangila']
+
+Stem: way
+Base words: ['uway', 'miway', 'raway', 'iway']
+
+Stem: putremela
+Base words: ['kiputremela']
+
+Stem: laon
+Base words: ['melaon']
+
+Stem: toreanan
+Base words: ['mitoreanan', 'matoreanan']
+
+Stem: utrab
+Base words: ['mautrab', 'utrabi', 'utrabay']
+
+Stem: bati
+Base words: ['pabati']
+
+Stem: nano
+Base words: ['kanano']
+
+Stem: kulukulung
+Base words: ['kulukulungan', 'kulukulungu', 'mukulukulung', 'kulukulungaw']
+
+Stem: oniyan
+Base words: ['kaoniyan', 'oniyanan']
+
+Stem: pusu
+Base words: ['pusui', 'pusuay', 'mipusu']
+
+Stem: kiruwan
+Base words: ['pikiruwan', 'mikiruwan']
+
+Stem: ludus
+Base words: ['muludus', 'puludus', 'miludus']
+
+Stem: selekaw
+Base words: ['paselekaw']
+
+Stem: kinibulas
+Base words: ['kinibulasan', 'mikinibulas']
+
+Stem: lesles
+Base words: ['melesles', 'leslesaw', 'leslesu']
+
+Stem: taodrong
+Base words: ['itaodrong']
+
+Stem: palamu
+Base words: ['kapalamu']
+
+Stem: poalak
+Base words: ['kipoalak']
+
+Stem: traiyanay
+Base words: ['patraiyanay']
+
+Stem: gagayango
+Base words: ['pigagayango']
+
+Stem: bolas
+Base words: ['bolasay', 'pabolas', 'kibolas', 'bolasi']
+
+Stem: olraya
+Base words: ['kaolraya']
+
+Stem: palakowan
+Base words: ['mipalakowan']
+
+Stem: selo
+Base words: ['piselo']
+
+Stem: labat
+Base words: ['mulabat', 'melabat', 'ulabat']
+
+Stem: saur
+Base words: ['pusaur', 'sauru', 'musaur', 'sauraw', 'misaur']
+
+Stem: butrel
+Base words: ['mibutrel']
+
+Stem: ngowayangowayan
+Base words: ['ingowayangowayan']
+
+Stem: apoy
+Base words: ['miapoy']
+
+Stem: siyan
+Base words: ['siyanu', 'siyanaw', 'sasiyan']
+
+Stem: trabak
+Base words: ['mitrabak']
+
+Stem: ile
+Base words: ['miile']
+
+Stem: kali
+Base words: ['kakali']
+
+Stem: palamo
+Base words: ['kapalamo']
+
+Stem: pulrut
+Base words: ['pulrutu', 'mapulrut', 'pulrutaw']
+
+Stem: puwabetanan
+Base words: ['kipuwabetanan']
+
+Stem: kasasadru
+Base words: ['ikasasadru', 'pakasasadru']
+
+Stem: naoway
+Base words: ['panaoway']
+
+Stem: isaoso
+Base words: ['paisaoso']
+
+Stem: burek
+Base words: ['burekay', 'uburek', 'bureki', 'muburek']
+
+Stem: salipungpung
+Base words: ['salipungpungay', 'musalipungpung']
+
+Stem: drenan
+Base words: ['mudrenan']
+
+Stem: balitruetru
+Base words: ['mubalitruetru', 'balitruetruu', 'balitruetruaw']
+
+Stem: abalr
+Base words: ['paabalr']
+
+Stem: leele
+Base words: ['meleele', 'leelean', 'mileele']
+
+Stem: bailes
+Base words: ['mibailes']
+
+Stem: atelr
+Base words: ['puatelr', 'atelru', 'atelran', 'maatelr', 'atelraw', 'atelranay', 'ematelr', 'muatelr']
+
+Stem: adru
+Base words: ['kanadru', 'kaadru']
+
+Stem: apeap
+Base words: ['apeapan', 'kaapeap']
+
+Stem: bias
+Base words: ['biasaw', 'biasu', 'pubias', 'biasanay', 'biasan']
+
+Stem: guluwan
+Base words: ['kaguluwan']
+
+Stem: trikal
+Base words: ['trikalaw', 'trikalu', 'matrikal', 'mutrikal']
+
+Stem: damuk
+Base words: ['midamuk']
+
+Stem: keskes
+Base words: ['keskesaw', 'mukeskes', 'keskesu']
+
+Stem: bowa
+Base words: ['mibowa']
+
+Stem: daum
+Base words: ['pidaum', 'midaum']
+
+Stem: bosos
+Base words: ['mabosos']
+
+Stem: kaolep
+Base words: ['pakaolep']
+
+Stem: yaolas
+Base words: ['piyaolas', 'miyaolas']
+
+Stem: kurap
+Base words: ['makurap']
+
+Stem: timus
+Base words: ['timusan', 'tatimus']
+
+Stem: garang
+Base words: ['migarang']
+
+Stem: risarisan
+Base words: ['kirisarisan', 'marisarisan', 'parisarisan']
+
+Stem: kungkung
+Base words: ['takungkung']
+
+Stem: kudraw
+Base words: ['tukudraw', 'sakudraw']
+
+Stem: pakarun
+Base words: ['kipakarun', 'pakarunan', 'pakarunay']
+
+Stem: pidor
+Base words: ['mapidor']
+
+Stem: arebu
+Base words: ['miarebu']
+
+Stem: aliyotr
+Base words: ['pialiyotr', 'mialiyotr']
+
+Stem: timera
+Base words: ['mitimera', 'pitimera']
+
+Stem: bunsilak
+Base words: ['mubunsilak']
+
+Stem: lepun
+Base words: ['mulepun', 'lepunan']
+
+Stem: raemetr
+Base words: ['raemetran', 'karaemetr']
+
+Stem: rabi
+Base words: ['merabi']
+
+Stem: lialo
+Base words: ['malialo', 'lialoaw']
+
+Stem: imar
+Base words: ['imaran', 'miimar', 'puimar']
+
+Stem: dingwa
+Base words: ['padingwa']
+
+Stem: bekas
+Base words: ['pabekas', 'kabekas', 'bekasaw']
+
+Stem: alak
+Base words: ['emalak', 'alakaw', 'alaku', 'alakanay', 'alaki', 'inalak', 'alakan', 'mualak', 'alakay', 'pualak']
+
+Stem: drolon
+Base words: ['drolonay', 'kidrolon', 'padrolon', 'droloni', 'drolonanay']
+
+Stem: trepokaw
+Base words: ['patrepokaw']
+
+Stem: katagowin
+Base words: ['mikatagowin', 'pikatagowin']
+
+Stem: talraping
+Base words: ['talrapinganay', 'mitalraping', 'talrapingaw', 'pitalraping']
+
+Stem: lolon
+Base words: ['melolon', 'nilolon', 'lolonaw']
+
+Stem: tabululr
+Base words: ['matabululr']
+
+Stem: bonga
+Base words: ['mibonga']
+
+Stem: kawkaw
+Base words: ['mikawkaw']
+
+Stem: omoy
+Base words: ['omoyaw', 'maomoy']
+
+Stem: likulraw
+Base words: ['milikulraw']
+
+Stem: tarawiri
+Base words: ['mitarawiri', 'tarawirian', 'tarawirianay', 'pitarawiri']
+
+Stem: leotr
+Base words: ['leotray', 'nileotr', 'leotranay', 'leotraw', 'meleotr']
+
+Stem: drowadrokaw
+Base words: ['padrowadrokaw']
+
+Stem: sakal
+Base words: ['sakalaw', 'kisakal', 'sakalu']
+
+Stem: reere
+Base words: ['reereay', 'mereere', 'reerei']
+
+Stem: leutr
+Base words: ['leutraw', 'leutray', 'nileutr', 'meleutr', 'leutru', 'leutranay', 'muleutr']
+
+Stem: siw
+Base words: ['kusiw', 'kisiw', 'isiw']
+
+Stem: rebeo
+Base words: ['parebeo']
+
+Stem: alipodowan
+Base words: ['mialipodowan']
+
+Stem: daromanang
+Base words: ['midaromanang']
+
+Stem: resiyoko
+Base words: ['paresiyoko']
+
+Stem: idraodr
+Base words: ['maidraodr', 'idraodraw']
+
+Stem: waenayan
+Base words: ['puwaenayan']
+
+Stem: leotro
+Base words: ['paleotro']
+
+Stem: siyang
+Base words: ['kusiyang']
+
+Stem: tarawalran
+Base words: ['pitarawalran', 'mitarawalran']
+
+Stem: katrong
+Base words: ['makatrong']
+
+Stem: rebi
+Base words: ['rebiaw', 'murebi']
+
+Stem: tiniktikan
+Base words: ['mitiniktikan']
+
+Stem: ageagelru
+Base words: ['kaageagelru']
+
+Stem: taroalrib
+Base words: ['mitaroalrib']
+
+Stem: olepan
+Base words: ['maolepan']
+
+Stem: pobetan
+Base words: ['pobetanay', 'kipobetan']
+
+Stem: niyobayop
+Base words: ['miniyobayop']
+
+Stem: madrayadrayar
+Base words: ['kimadrayadrayar']
+
+Stem: saigo
+Base words: ['kasaigo', 'saigoan']
+
+Stem: idung
+Base words: ['emidung', 'inidung', 'miidung', 'idungay']
+
+Stem: koriyaw
+Base words: ['pakoriyaw']
+
+Stem: odalr
+Base words: ['maodalr', 'odalray']
+
+Stem: tariyama
+Base words: ['itariyama', 'kitariyama']
+
+Stem: basikaw
+Base words: ['kibasikaw']
+
+Stem: putruk
+Base words: ['maputruk']
+
+Stem: tratrepa
+Base words: ['patratrepa']
+
+Stem: dadikesan
+Base words: ['midadikesan']
+
+Stem: petrir
+Base words: ['petriri', 'mipetrir', 'petriray']
+
+Stem: rebuwan
+Base words: ['purebuwan', 'rebuwanay']
+
+Stem: alrop
+Base words: ['paalrop', 'maalrop', 'alropaw']
+
+Stem: kerutr
+Base words: ['kakerutr', 'kerutraw', 'kerutru']
+
+Stem: drolrotro
+Base words: ['padrolrotro']
+
+Stem: trima
+Base words: ['mitrima', 'trimaan', 'trimaay', 'patrima', 'mutrima', 'trimaanay']
+
+Stem: kodayaw
+Base words: ['kakodayaw']
+
+Stem: sayaigoan
+Base words: ['kasayaigoan']
+
+Stem: koris
+Base words: ['makoris']
+
+Stem: kurenang
+Base words: ['kurenangay', 'kurenangan', 'pakurenang', 'kurenangi']
+
+Stem: pilray
+Base words: ['mapilray']
+
+Stem: salretung
+Base words: ['musalretung', 'salretungi', 'salretungay', 'salretungan']
+
+Stem: bawiyaw
+Base words: ['pabawiyaw']
+
+Stem: bowang
+Base words: ['bowangi', 'mabowang', 'mibowang', 'bowangay']
+
+Stem: opidr
+Base words: ['opidranay', 'maopidr', 'opidraw', 'inopidr', 'emopidr']
+
+Stem: liyos
+Base words: ['meliyos', 'liyosan', 'piliyos', 'paliyos', 'liyosaw']
+
+Stem: powangalad
+Base words: ['ipowangalad', 'powangaladi', 'powangaladan']
+
+Stem: sangeot
+Base words: ['kasangeot']
+
+Stem: alrap
+Base words: ['maalrap', 'alrapan']
+
+Stem: dero
+Base words: ['madero', 'padero']
+
+Stem: taruan
+Base words: ['mitaruan']
+
+Stem: okayo
+Base words: ['paokayo']
+
+Stem: lekip
+Base words: ['melekip', 'lekipu']
+
+Stem: alako
+Base words: ['paalako']
+
+Stem: tralatralaw
+Base words: ['mutralatralaw', 'tralatralawi', 'tralatralaway']
+
+Stem: tremeli
+Base words: ['putremeli']
+
+Stem: sielas
+Base words: ['misielas']
+
+Stem: sekup
+Base words: ['sekupu', 'sekupaw', 'musekup']
+
+Stem: abak
+Base words: ['abakaw', 'abakanay', 'inabak', 'abakay', 'miabak', 'emabak', 'maabak', 'abakan', 'abaku', 'abaki']
+
+Stem: epus
+Base words: ['miepus']
+
+Stem: lraob
+Base words: ['lraobaw', 'lraobanay', 'melraob']
+
+Stem: paisinga
+Base words: ['kipaisinga']
+
+Stem: sepelran
+Base words: ['misepelran']
+
+Stem: gagayang
+Base words: ['gagayangu', 'kigagayang', 'migagayang', 'gagayangaw', 'pigagayang']
+
+Stem: olidan
+Base words: ['maolidan']
+
+Stem: renadran
+Base words: ['rarenadran']
+
+Stem: resiyuk
+Base words: ['maresiyuk', 'resiyuku', 'raresiyuk', 'resiyukan', 'resiyukanay', 'niresiyuk', 'resiyukaw']
+
+Stem: timul
+Base words: ['mutimul']
+
+Stem: palrama
+Base words: ['mipalrama', 'palramaan', 'palramaay']
+
+Stem: lulun
+Base words: ['melulun', 'mululun', 'lulunu', 'lulunaw', 'nilulun']
+
+Stem: trao
+Base words: ['mitrao']
+
+Stem: keng
+Base words: ['mikeng']
+
+Stem: karatr
+Base words: ['karatru', 'karatraw', 'kakaratr']
+
+Stem: trokap
+Base words: ['mitrokap']
+
+Stem: gisagisan
+Base words: ['pagisagisan']
+
+Stem: tibos
+Base words: ['katibos']
+
+Stem: roma
+Base words: ['taroma', 'romaan', 'miroma']
+
+Stem: barat
+Base words: ['baratan', 'mibarat', 'baratanay', 'barataw', 'baratu']
+
+Stem: lekaw
+Base words: ['lekaway', 'lekawi', 'melekaw', 'ulekaw']
+
+Stem: botrel
+Base words: ['mibotrel']
+
+Stem: ebot
+Base words: ['maebot', 'eboti', 'ebotay']
+
+Stem: turik
+Base words: ['saturik', 'uturik', 'muturik']
+
+Stem: drowa
+Base words: ['kadrowa', 'padrowa']
+
+Stem: duay
+Base words: ['miduay']
+
+Stem: dra
+Base words: ['kidra']
+
+Stem: raoban
+Base words: ['maraoban', 'karaoban']
+
+Stem: toki
+Base words: ['mitoki']
+
+Stem: deru
+Base words: ['paderu', 'maderu']
+
+Stem: drono
+Base words: ['idrono', 'kadrono']
+
+Stem: powalima
+Base words: ['mipowalima']
+
+Stem: temoy
+Base words: ['matemoy', 'temoyi', 'temoyay']
+
+Stem: aludrun
+Base words: ['kaaludrun', 'aludrunan']
+
+Stem: buebu
+Base words: ['mibuebu', 'pibuebu', 'pabuebu']
+
+Stem: tureanan
+Base words: ['matureanan', 'mitureanan']
+
+Stem: dadirus
+Base words: ['padadirus', 'dadirusan']
+
+Stem: padrangal
+Base words: ['padrangalan', 'kapadrangal']
+
+Stem: potremela
+Base words: ['kipotremela']
+
+Stem: pese
+Base words: ['mapese', 'peseaw', 'mupese', 'peseu']
+
+Stem: rames
+Base words: ['ramesaw', 'nirames', 'merames', 'murames', 'ramesu']
+
+Stem: lipotr
+Base words: ['nilipotr', 'lipotranay', 'salipotr', 'melipotr', 'lipotraw']
+
+Stem: sekiyan
+Base words: ['pasekiyan']
+
+Stem: tintin
+Base words: ['tintinaw', 'tintinu', 'satintin']
+
+Stem: tratrepar
+Base words: ['tratrepari', 'mutratrepar']
+
+Stem: lrengaw
+Base words: ['melrengaw', 'kilrengaw']
+
+Stem: tratrongolr
+Base words: ['matratrongolr']
+
+Stem: libeng
+Base words: ['melibeng', 'libengay', 'milibeng']
+
+Stem: laya
+Base words: ['ulaya']
+
+Stem: lralritek
+Base words: ['melralritek', 'lralritekaw', 'lralritekan', 'kalralritek', 'lralriteku', 'palralritek']
+
+Stem: karisis
+Base words: ['pikarisis', 'mikarisis']
+
+Stem: patakesia
+Base words: ['kipatakesia']
+
+Stem: kowalengan
+Base words: ['mikowalengan', 'kakowalengan']
+
+Stem: toeto
+Base words: ['toetoay', 'toetoaw', 'toetoi', 'matoeto']
+
+Stem: potremel
+Base words: ['potremelan', 'potremeli', 'potremelay', 'papotremel', 'kipotremel']
+
+Stem: apotr
+Base words: ['piapotr', 'miapotr']
+
+Stem: isaisatr
+Base words: ['puisaisatr', 'muisaisatr']
+
+Stem: gimpu
+Base words: ['migimpu', 'pigimpu']
+
+Stem: truri
+Base words: ['mitruri', 'truriay', 'trurii']
+
+Stem: kiyor
+Base words: ['kiyoraw', 'kakiyor']
+
+Stem: drenadrenan
+Base words: ['mudrenadrenan']
+
+Stem: manuden
+Base words: ['mimanuden']
+
+Stem: dadepo
+Base words: ['dadepoan', 'midadepo']
+
+Stem: danadanaw
+Base words: ['mudanadanaw']
+
+Stem: salupiyang
+Base words: ['salupiyangaw', 'musalupiyang', 'salupiyangu', 'salupiyangi']
+
+Stem: llang
+Base words: ['pullang']
+
+Stem: ledrledro
+Base words: ['paledrledro']
+
+Stem: walenakan
+Base words: ['uwalenakan']
+
+Stem: abay
+Base words: ['tuabay', 'abayan']
+
+Stem: tatalaan
+Base words: ['patatalaan']
+
+Stem: trinapan
+Base words: ['matrinapan']
+
+Stem: gamut
+Base words: ['mugamut']
+
+Stem: draeray
+Base words: ['draerayaw', 'draerayu', 'mudraeray']
+
+Stem: gururus
+Base words: ['mugururus', 'pugururus', 'gururusan']
+
+Stem: potre
+Base words: ['mipotre']
+
+Stem: kabang
+Base words: ['mikabang']
+
+Stem: laleotr
+Base words: ['melaleotr', 'laleotran']
+
+Stem: dreketr
+Base words: ['padreketr', 'dreketray']
+
+Stem: luki
+Base words: ['lukiu', 'lukiaw', 'paluki']
+
+Stem: gelrep
+Base words: ['migelrep', 'kigelrep']
+
+Stem: siwpan
+Base words: ['misiwpan']
+
+Stem: ngara
+Base words: ['pangara', 'mengara']
+
+Stem: lraub
+Base words: ['melraub', 'lraubanay', 'lraubu', 'lraubaw']
+
+Stem: iyaboreng
+Base words: ['iyaborengay', 'miiyaboreng']
+
+Stem: lrawlraw
+Base words: ['milrawlraw']
+
+Stem: tala
+Base words: ['talaay', 'talaanay', 'talai', 'patala', 'mutala']
+
+Stem: uresap
+Base words: ['miuresap']
+
+Stem: laput
+Base words: ['melaput']
+
+Stem: bira
+Base words: ['mibira']
+
+Stem: buriawan
+Base words: ['kaburiawan', 'paburiawan']
+
+Stem: sede
+Base words: ['sedeu', 'sedeaw', 'sedean', 'sasede']
+
+Stem: amiami
+Base words: ['miamiami']
+
+Stem: indan
+Base words: ['miindan']
+
+Stem: ledep
+Base words: ['ledepanay', 'muledep', 'ledepay']
+
+Stem: kaodalran
+Base words: ['pakaodalran']
+
+Stem: takumulr
+Base words: ['mitakumulr']
+
+Stem: gin
+Base words: ['ugin']
+
+Stem: tanga
+Base words: ['katanga']
+
+Stem: laleutr
+Base words: ['laleutran', 'melaleutr']
+
+Stem: traitrai
+Base words: ['mutraitrai']
+
+Stem: sonan
+Base words: ['sasonan']
+
+Stem: bali
+Base words: ['mibali']
+
+Stem: aliyutr
+Base words: ['mialiyutr', 'pualiyutr', 'pialiyutr']
+
+Stem: wadi
+Base words: ['tawadi', 'miwadi']
+
+Stem: kiping
+Base words: ['mikiping', 'pikiping', 'kakiping']
+
+Stem: rosros
+Base words: ['rosrosay', 'merosros', 'rosrosaw']
+
+Stem: kababolay
+Base words: ['pakababolay']
+
+Stem: neknek
+Base words: ['nekneki', 'neknekay', 'meneknek', 'neknekan']
+
+Stem: parayas
+Base words: ['parayasu', 'parayasaw', 'muparayas', 'kiparayas']
+
+Stem: aperedr
+Base words: ['aperedru', 'aperedray', 'kiaperedr', 'emaperedr']
+
+Stem: kudayaw
+Base words: ['kakudayaw']
+
+Stem: kalapoy
+Base words: ['kikalapoy']
+
+Stem: kainabayaw
+Base words: ['pakainabayaw']
+
+Stem: ageagelro
+Base words: ['kaageagelro']
+
+Stem: sanga
+Base words: ['sangaan', 'sangaanay', 'sangau', 'sangaaw', 'pasanga']
+
+Stem: ekan
+Base words: ['ekanaw', 'niekan', 'ekanu', 'inekan', 'maekan']
+
+Stem: belalawatr
+Base words: ['mibelalawatr', 'belalawatray']
+
+Stem: kabung
+Base words: ['mikabung', 'pikabung']
+
+Stem: odong
+Base words: ['emodong', 'odonganay', 'saodong', 'odongay', 'odongaw', 'inodong']
+
+Stem: trepukaw
+Base words: ['patrepukaw']
+
+Stem: beray
+Base words: ['kiberay', 'berayi', 'berayan', 'berayay', 'berayanay']
+
+Stem: rawang
+Base words: ['mirawang', 'sarawang', 'rawangay']
+
+Stem: idru
+Base words: ['paidru']
+
+Stem: iyasekedr
+Base words: ['kaiyasekedr']
+
+Stem: idrus
+Base words: ['piidrus', 'miidrus']
+
+Stem: rega
+Base words: ['murega', 'mirega']
+
+Stem: seki
+Base words: ['paseki', 'maseki']
+
+Stem: pakumauwan
+Base words: ['ipakumauwan']
+
+Stem: ladam
+Base words: ['ladamaw', 'maladam', 'paladam']
+
+Stem: basuk
+Base words: ['basukaw', 'mubasuk', 'basuku']
+
+Stem: gingaging
+Base words: ['gingagingu', 'gingagingaw', 'magingaging']
+
+Stem: trabotrab
+Base words: ['mitrabotrab']
+
+Stem: repoto
+Base words: ['parepoto']
+
+Stem: kodraw
+Base words: ['sakodraw']
+
+Stem: timuremur
+Base words: ['matimuremur']
+
+Stem: nauway
+Base words: ['panauway']
+
+Stem: lraitr
+Base words: ['milraitr']
+
+Stem: tringal
+Base words: ['tringalanay', 'tringalaw', 'matringal', 'tringalu']
+
+Stem: seket
+Base words: ['seketaw', 'paseket', 'seketu']
+
+Stem: kakoda
+Base words: ['makakoda', 'kakakoda']
+
+Stem: adralru
+Base words: ['paadralru']
+
+Stem: sokon
+Base words: ['misokon']
+
+Stem: idraidrangan
+Base words: ['maidraidrangan']
+
+Stem: bui
+Base words: ['pibui', 'mibui']
+
+Stem: towap
+Base words: ['mitowap']
+
+Stem: tratrumug
+Base words: ['mitratrumug']
+
+Stem: lalingedr
+Base words: ['palalingedr']
+
+Stem: sabana
+Base words: ['sabanau', 'sabanaaw', 'musabana']
+
+Stem: suta
+Base words: ['misuta', 'sutau', 'sutaaw']
+
+Stem: ngatoy
+Base words: ['mangatoy']
+
+Stem: terekuk
+Base words: ['miterekuk']
+
+Stem: kulriyabes
+Base words: ['makulriyabes', 'kikulriyabes']
+
+Stem: tabololr
+Base words: ['matabololr']
+
+Stem: trereb
+Base words: ['trerebaw', 'mutrereb', 'trerebu']
+
+Stem: pukuy
+Base words: ['pukuyaw', 'pukuyu', 'mipukuy', 'pipukuy']
+
+Stem: inukayan
+Base words: ['miinukayan']
+
+Stem: naisowa
+Base words: ['kanaisowa']
+
+Stem: laliyaban
+Base words: ['mulaliyaban']
+
+Stem: siyaw
+Base words: ['pasiyaw', 'pusiyaw']
+
+Stem: sukun
+Base words: ['misukun']
+
+Stem: loom
+Base words: ['piloom', 'miloom']
+
+Stem: sebang
+Base words: ['pasebang']
+
+Stem: adalos
+Base words: ['kaadalos']
+
+Stem: bolan
+Base words: ['sabolan']
+
+Stem: ineine
+Base words: ['muineine']
+
+Stem: lataw
+Base words: ['milataw']
+
+Stem: kor
+Base words: ['kori', 'mikor', 'ikor', 'koraw']
+
+Stem: dinki
+Base words: ['midinki']
+
+Stem: tuwasu
+Base words: ['mituwasu']
+
+Stem: apetr
+Base words: ['apetru', 'apetraw', 'inapetr', 'emapetr', 'paapetr']
+
+Stem: sowa
+Base words: ['isowa']
+
+Stem: lobitr
+Base words: ['milobitr']
+
+Stem: kakudayan
+Base words: ['kakakudayan']
+
+Stem: trebi
+Base words: ['trebiu', 'trebian', 'mutrebi', 'trebianay']
+
+Stem: ngalngal
+Base words: ['mengalngal', 'ngalngalaw']
+
+Stem: traetra
+Base words: ['traetrau', 'traetrai', 'traetraaw', 'traetraay', 'patraetra']
+
+Stem: trerag
+Base words: ['treragaw', 'mutrerag', 'treragu']
+
+Stem: boir
+Base words: ['kiboir']
+
+Stem: poton
+Base words: ['potoni', 'potonay', 'mapoton']
+
+Stem: lapot
+Base words: ['melapot']
+
+Stem: lalaib
+Base words: ['milalaib']
+
+Stem: ing
+Base words: ['paing', 'miing']
+
+Stem: inokayan
+Base words: ['miinokayan']
+
+Stem: ongtroy
+Base words: ['miongtroy']
+
+Stem: alrup
+Base words: ['maalrup', 'paalrup', 'alrupaw']
+
+Stem: kuliling
+Base words: ['mikuliling']
+
+Stem: gumulr
+Base words: ['migumulr']
+
+Stem: libat
+Base words: ['mulibat', 'libatay', 'libati', 'melibat']
+
+Stem: atrebung
+Base words: ['muatrebung', 'atrebungay']
+
+Stem: tralun
+Base words: ['mutralun', 'mitralun']
+
+Stem: anger
+Base words: ['angeran', 'angeru', 'puanger', 'mianger', 'angeri']
+
+Stem: biruwa
+Base words: ['mibiruwa']
+
+Stem: yao
+Base words: ['iyao']
+
+Stem: itril
+Base words: ['maitril']
+
+Stem: kang
+Base words: ['ukang']
+
+Stem: diroso
+Base words: ['padiroso']
+
+Stem: palretruk
+Base words: ['palretruku', 'mupalretruk']
+
+Stem: retugun
+Base words: ['karetugun', 'maretugun']
+
+Stem: pakireb
+Base words: ['kapakireb', 'pakirebi', 'pakirebay']
+
+Stem: trangoro
+Base words: ['kitrangoro', 'mitrangoro']
+
+Stem: tilre
+Base words: ['mitilre']
+
+Stem: waarak
+Base words: ['iwaarak', 'uwaarak', 'waarakan', 'muwaarak']
+
+Stem: bongo
+Base words: ['mabongo']
+
+Stem: tratrepayan
+Base words: ['patratrepayan']
+
+Stem: putun
+Base words: ['putunay', 'putuni', 'maputun']
+
+Stem: sikasuk
+Base words: ['masikasuk', 'sikasukaw']
+
+Stem: busus
+Base words: ['mabusus']
+
+Stem: waisatr
+Base words: ['muwaisatr', 'uwaisatr', 'puwaisatr']
+
+Stem: kasasadro
+Base words: ['ikasasadro', 'pakasasadro']
+
+Stem: kerango
+Base words: ['pakerango']
+
+Stem: tragetreg
+Base words: ['mitragetreg']
+
+Stem: wagururusan
+Base words: ['uwagururusan']
+
+Stem: kedrengo
+Base words: ['pakedrengo']
+
+Stem: ledrledr
+Base words: ['ledrledru', 'meledrledr', 'ledrledraw']
+
+Stem: kowakowang
+Base words: ['makowakowang']
+
+Stem: arekedr
+Base words: ['kaarekedr', 'arekedran']
+
+Stem: palingalungan
+Base words: ['mipalingalungan', 'pipalingalungan']
+
+Stem: besbes
+Base words: ['pabesbes', 'besbesay']
+
+Stem: powadrangi
+Base words: ['kipowadrangi']
+
+Stem: reput
+Base words: ['reputaw', 'mureput', 'reputu']
+
+Stem: sidrung
+Base words: ['misidrung']
+
+Stem: bitrenun
+Base words: ['mibitrenun']
+
+Stem: kaaudalr
+Base words: ['pakaaudalr']
+
+Stem: drimutr
+Base words: ['drimutru', 'mudrimutr', 'drimutraw']
+
+Stem: kinibolas
+Base words: ['kinibolasan', 'mikinibolas']
+
+Stem: !
+Base words: ['i!']
+
+Stem: tobilr
+Base words: ['pitobilr', 'mitobilr']
+
+Stem: adri
+Base words: ['kanadri', 'miadri', 'kaadri', 'adrii']
+
+Stem: dalreu
+Base words: ['kadalreu']
+
+Stem: poran
+Base words: ['miporan']
+
+Stem: niwan
+Base words: ['muniwan', 'meniwan', 'niwananay', 'niwanan']
+
+Stem: ngulengul
+Base words: ['mingulengul']
+
+Stem: tengeso
+Base words: ['patengeso']
+
+Stem: kinasowan
+Base words: ['mikinasowan', 'kinasowanan']
+
+Stem: maaaraw
+Base words: ['kimaaaraw']
+
+Stem: imir
+Base words: ['miimir']
+
+Stem: palrowan
+Base words: ['palrowanay', 'papalrowan', 'mipalrowan']
+
+Stem: linep
+Base words: ['linepaw', 'mulinep']
+
+Stem: kuriyaw
+Base words: ['pakuriyaw']
+
+Stem: asawa
+Base words: ['miasawa']
+
+Stem: talrusubung
+Base words: ['mitalrusubung', 'talrusubungay', 'talrusubungi']
+
+Stem: wabilin
+Base words: ['uwabilin']
+
+Stem: simei
+Base words: ['sasimei']
+
+Stem: towaso
+Base words: ['mitowaso']
+
+Stem: trongolr
+Base words: ['patrongolr', 'trongolri', 'trongolraw', 'trongolray']
+
+Stem: ubi
+Base words: ['saubi', 'ubii']
+
+Stem: daw
+Base words: ['kadaw', 'daway']
+
+Stem: treab
+Base words: ['pitreab']
+
+Stem: nanauwan
+Base words: ['pananauwan', 'ninanauwan']
+
+Stem: towalray
+Base words: ['mitowalray']
+
+Stem: saoiyo
+Base words: ['misaoiyo']
+
+Stem: kappa
+Base words: ['mikappa']
+
+Stem: kitalrudr
+Base words: ['pakitalrudr', 'kitalrudru', 'kitalrudraw']
+
+Stem: inoo
+Base words: ['painoo']
+
+Stem: nadro
+Base words: ['kanadro']
+
+Stem: nini
+Base words: ['panini', 'minini']
+
+Stem: trebulr
+Base words: ['mitrebulr', 'trebulran']
+
+Stem: patraratraran
+Base words: ['mupatraratraran']
+
+Stem: korap
+Base words: ['makorap']
+
+Stem: lung
+Base words: ['kulung']
+
+Stem: taptapo
+Base words: ['pataptapo']
+
+Stem: soang
+Base words: ['soangaw', 'misoang']
+
+Stem: lemu
+Base words: ['malemu', 'lemuan']
+
+Stem: katatelu
+Base words: ['pukatatelu']
+
+Stem: adralraw
+Base words: ['paadralraw']
+
+Stem: sakerup
+Base words: ['sakerupaw', 'sakerupu', 'pisakerup', 'misakerup']
+
+Stem: tangtang
+Base words: ['mitangtang']
+
+Stem: sabun
+Base words: ['sabunay', 'sabuni', 'misabun']
+
+Stem: latak
+Base words: ['lataku', 'latakaw', 'malatak', 'melatak']
+
+Stem: kirongetr
+Base words: ['pakirongetr', 'kirongetraw']
+
+Stem: ngorangoran
+Base words: ['mangorangoran']
+
+Stem: daom
+Base words: ['midaom', 'pidaom']
+
+Stem: salaw
+Base words: ['pasalaw', 'salawi', 'salaway']
+
+Stem: madradrikol
+Base words: ['kimadradrikol']
+
+Stem: sodrong
+Base words: ['misodrong']
+
+Stem: kutrem
+Base words: ['kakutrem']
+
+Stem: sadralran
+Base words: ['misadralran']
+
+Stem: kepelo
+Base words: ['pakepelo']
+
+Stem: raredek
+Base words: ['meraredek']
+
+Stem: babalo
+Base words: ['kababalo', 'mibabalo']
+
+Stem: suwadrsudr
+Base words: ['misuwadrsudr']
+
+Stem: kolriyabes
+Base words: ['kikolriyabes', 'makolriyabes']
+
+Stem: putremel
+Base words: ['putremeli', 'kiputremel', 'putremelay', 'paputremel', 'putremelan']
+
+Stem: engadr
+Base words: ['maengadr', 'emengadr']
+
+Stem: palraw
+Base words: ['palraway', 'mipalraw']
+
+Stem: kotro
+Base words: ['bekotro']
+
+Stem: kiyadakud
+Base words: ['mikiyadakud']
+
+Stem: sotao
+Base words: ['pasotao']
+
+Stem: atrab
+Base words: ['atrabu', 'atrabaw', 'inatrab', 'miatrab']
+
+Stem: kirungetr
+Base words: ['kirungetraw', 'mukirungetr', 'pakirungetr', 'kirungetru']
+
+Stem: sepo
+Base words: ['kisepo', 'sepoaw']
+
+Stem: singki
+Base words: ['masingki']
+
+Stem: rienup
+Base words: ['marienup', 'merienup', 'rienupay']
+
+Stem: lrungpaw
+Base words: ['milrungpaw', 'pilrungpaw']
+
+Stem: pongolr
+Base words: ['pongolran', 'sapongolr']
+
+Stem: rabiyo
+Base words: ['parabiyo']
+
+Stem: dradrowa
+Base words: ['kadradrowa']
+
+Stem: traremtrem
+Base words: ['kitraremtrem']
+
+Stem: likudran
+Base words: ['ulikudran', 'pulikudran']
+
+Stem: kirepauwa
+Base words: ['pakirepauwa']
+
+Stem: trukap
+Base words: ['mitrukap']
+
+Stem: tingeran
+Base words: ['mitingeran']
+
+Stem: baar
+Base words: ['mibaar']
+
+Stem: lalibat
+Base words: ['melalibat']
+
+Stem: temuy
+Base words: ['matemuy', 'temuyay', 'temuyi']
+
+Stem: pidur
+Base words: ['mapidur']
+
+Stem: nanta
+Base words: ['kananta']
+
+Stem: lrepit
+Base words: ['lrepitanay', 'lrepitu', 'lrepitaw', 'salrepit']
+
+Stem: tuwaemu
+Base words: ['tuwaemuan', 'mutuwaemu', 'tuwaemuaw', 'tuwaemuu']
+
+Stem: lobok
+Base words: ['milobok', 'pilobok']
+
+Stem: langotr
+Base words: ['malangotr']
+
+Stem: talrosobong
+Base words: ['mitalrosobong', 'talrosobongi', 'talrosobongay']
+
+Stem: aip
+Base words: ['aipanay', 'emaip', 'maaip', 'aipu', 'aipaw', 'aipan']
+
+Stem: saadr
+Base words: ['misaadr', 'saadran']
+
+Stem: saor
+Base words: ['misaor', 'saoraw']
+
+Stem: adriyo
+Base words: ['kanadriyo']
+
+Stem: nadriyo
+Base words: ['kanadriyo']
+
+Stem: tutuy
+Base words: ['mitutuy']
+
+Stem: kitalrodr
+Base words: ['pakitalrodr', 'kitalrodraw']
+
+Stem: masasalaw
+Base words: ['kimasasalaw']
+
+Stem: uled
+Base words: ['miuled']
+
+Stem: kiyam
+Base words: ['mikiyam']
+
+Stem: pasek
+Base words: ['mipasek', 'paseki', 'pasekay']
+
+Stem: us
+Base words: ['muus', 'umus', 'imus']
+
+Stem: lobisan
+Base words: ['malobisan']
+
+Stem: sapotro
+Base words: ['pasapotro']
+
+Stem: kadrukadru
+Base words: ['kikadrukadru']
+
+Stem: sinki
+Base words: ['kasinki', 'masinki', 'misinki']
+
+Stem: powabetanan
+Base words: ['kipowabetanan']
+
+Stem: lringa
+Base words: ['milringa']
+
+Stem: kinaso
+Base words: ['mikinaso']
+
+Stem: darumanang
+Base words: ['midarumanang']
+
+Stem: orelra
+Base words: ['miorelra']
+
+Stem: kabangabang
+Base words: ['kabangabangan', 'pakabangabang']
+
+Stem: kainanaba
+Base words: ['pakainanaba']
+
+Stem: balruk
+Base words: ['balruku', 'mubalruk', 'balrukaw', 'ubalruk']
+
+Stem: totoy
+Base words: ['mitotoy']
+
+Stem: torik
+Base words: ['satorik']
+
+Stem: kalradram
+Base words: ['pakalradram', 'mukalradram', 'kalradraman', 'kalradramaw', 'kalradramu', 'kalradrami']
+
+Stem: kakeser
+Base words: ['ikakeser', 'kakeseru', 'kakeseraw', 'kakeseran']
+
+Stem: pereo
+Base words: ['papereo']
+
+Stem: botro
+Base words: ['mibotro']
+
+Stem: roto
+Base words: ['miroto', 'piroto']
+
+Stem: isi
+Base words: ['isiay', 'paisi']
+
+Stem: baksiwo
+Base words: ['pabaksiwo']
+
+Stem: suru
+Base words: ['suruay', 'kisuru', 'surui']
+
+Stem: tawar
+Base words: ['patawar']
+
+Stem: trukul
+Base words: ['trukulaw', 'trukulu', 'mutrukul', 'trukulanay']
+
+Stem: kaudalran
+Base words: ['pakaudalran']
+
+Stem: patedrelr
+Base words: ['kapatedrelr', 'patedrelru']
+
+Stem: balis
+Base words: ['balisu', 'mubalis', 'balisan', 'balisaw']
+
+Stem: telreedr
+Base words: ['telreedru', 'telreedraw', 'mutelreedr']
+
+Stem: korenang
+Base words: ['korenangay', 'korenangi', 'pakorenang', 'korenangan']
+
+Stem: wataw
+Base words: ['miwataw']
+
+Stem: abalu
+Base words: ['kaabalu', 'abalui']
+
+Stem: kuwalengan
+Base words: ['mikuwalengan', 'kakuwalengan']
+
+Stem: kalapuy
+Base words: ['kikalapuy']
+
+Stem: abu
+Base words: ['miabu', 'puabu']
+
+Stem: dradruwa
+Base words: ['kadradruwa']
+
+Stem: boi
+Base words: ['miboi', 'piboi']
+
+Stem: aladr
+Base words: ['aladru', 'aladraw', 'mialadr', 'aladranay', 'emaladr']
+
+Stem: tarualrib
+Base words: ['mitarualrib']
+
+Stem: seketo
+Base words: ['paseketo']
+
+Stem: itrul
+Base words: ['itrulanay', 'paitrul', 'itrulay', 'itrulaw', 'emitrul', 'itruli', 'itrulu']
+
+Stem: trekimi
+Base words: ['trekimiaw', 'mutrekimi', 'trekimiu']
+
+Stem: kakopo
+Base words: ['mikakopo', 'kikakopo', 'kakopoaw', 'pikakopo']
+
+Stem: bayabayan
+Base words: ['mubayabayan']
+
+Stem: kakodayan
+Base words: ['kakakodayan']
+
+Stem: madradrikul
+Base words: ['kimadradrikul']
+
+Stem: kerotr
+Base words: ['kakerotr', 'kerotraw']
+
+Stem: kababulay
+Base words: ['pakababulay']
+
+Stem: tokodr
+Base words: ['tokodranay', 'tokodraw', 'tatokodr']
+
+Stem: ngangara
+Base words: ['mengangara']
+
+Stem: kawang
+Base words: ['kakawang']
+
+Stem: siuy
+Base words: ['misiuy']
+
+Stem: bulas
+Base words: ['bulasi', 'kibulas', 'pabulas', 'bulasay']
+
+Stem: drowayaw
+Base words: ['padrowayaw']
+
+Stem: epos
+Base words: ['miepos']
+
+Stem: elring
+Base words: ['elringu', 'paelring', 'elringaw']
+
+Stem: saninin
+Base words: ['pusaninin', 'usaninin', 'musaninin']
+
+Stem: ngaiyan
+Base words: ['ngaiyani', 'kangaiyan']
+
+Stem: asuwasuwa
+Base words: ['kaasuwasuwa']
+
+Stem: etan
+Base words: ['mietan']
+
+Stem: balru
+Base words: ['sabalru']
+
+Stem: dradrolon
+Base words: ['padradrolon', 'madradrolon', 'dradrolonan']
+
+Stem: kadrokadro
+Base words: ['kikadrokadro']
+
+Stem: rebe
+Base words: ['murebe', 'rebeu', 'rebeaw']
+
+Stem: reaniyan
+Base words: ['kareaniyan', 'nireaniyan']
+
+Stem: ulrus
+Base words: ['ulrusaw', 'emulrus', 'muulrus']
+
+Stem: takomolr
+Base words: ['mitakomolr']
+
+Stem: ngolengol
+Base words: ['mingolengol']
+
+Stem: tinalrek
+Base words: ['mitinalrek']
+
+Stem: pinolrangan
+Base words: ['mipinolrangan']
+
+Stem: alodron
+Base words: ['kaalodron', 'alodronan']
+
+Stem: semek
+Base words: ['masemek']
+
+Stem: trori
+Base words: ['mitrori', 'trorii', 'troriay']
+
+Stem: kalralradram
+Base words: ['pakalralradram', 'kalralradraman']
+
+Stem: getrio
+Base words: ['pagetrio']
+
+Stem: kowaalengan
+Base words: ['kakowaalengan']
+
+Stem: ama
+Base words: ['amau', 'muama']
+
+Stem: trabutrab
+Base words: ['mitrabutrab']
+
+Stem: tinalraman
+Base words: ['mitinalraman']
+
+Stem: powamatra
+Base words: ['mipowamatra']
+
+Stem: busisi
+Base words: ['mibusisi']
+
+Stem: air
+Base words: ['airi', 'emair', 'airay', 'maair']
+
+Stem: dinsiya
+Base words: ['pidinsiya', 'midinsiya']
+
+Stem: nantu
+Base words: ['kanantu']
+
+Stem: irairaw
+Base words: ['pairairaw']
+
+Stem: umuy
+Base words: ['umuyu', 'maumuy', 'umuyaw']
+
+Stem: betra
+Base words: ['mabetra']
+
+Stem: gung
+Base words: ['migung', 'pigung', 'ungung']
+
+Stem: kinasuwan
+Base words: ['kinasuwanan', 'mikinasuwan']
+
+Stem: rusrus
+Base words: ['rusrusay', 'merusrus', 'rusrusaw', 'rusrusu']
+
+Stem: manamanay
+Base words: ['mamanamanay']
+
+Stem: potrok
+Base words: ['mapotrok']
+
+Stem: pareuninan
+Base words: ['kapareuninan']
+
+Stem: selu
+Base words: ['piselu']
+
+Stem: silreb
+Base words: ['silrebaw', 'sasilreb', 'silrebu']
+
+Stem: ebut
+Base words: ['ebutay', 'maebut', 'ebuti']
+
+Stem: diras
+Base words: ['madiras']
+
+Stem: turu
+Base words: ['paturu', 'turui']
+
+Stem: nadru
+Base words: ['kanadru']
+
+Stem: pispiso
+Base words: ['papispiso']
+
+Stem: buresukan
+Base words: ['miburesukan']
+
+Stem: seneng
+Base words: ['museneng', 'senengaw', 'senengu']
+
+Stem: abo
+Base words: ['miabo']
+
+Stem: inayan
+Base words: ['mainayan']
+
+Stem: ngay
+Base words: ['ngayi', 'rengay']
+
+Stem: reani
+Base words: ['rareani', 'mareani']
+
+Stem: kudrulr
+Base words: ['sakudrulr']
+
+Stem: nanko
+Base words: ['kananko']
+
+Stem: ongitr
+Base words: ['miongitr']
+
+Stem: tratromog
+Base words: ['mitratromog']
+
+Stem: trau
+Base words: ['mitrau']
+
+Stem: nanto
+Base words: ['kananto', 'nantou']
+
+Stem: alipuduwan
+Base words: ['mialipuduwan']
+
+Stem: llengaw
+Base words: ['killengaw']
+
+Stem: silra
+Base words: ['musilra', 'silraan', 'silraanay']
+
+Stem: beraya
+Base words: ['kiberaya']
+
+Stem: babuyulr
+Base words: ['mibabuyulr']
+
+Stem: kuwakuwang
+Base words: ['makuwakuwang']
+
+Stem: alili
+Base words: ['mialili']
+
+Stem: ngutngut
+Base words: ['mengutngut', 'ngutngutaw']
+
+Stem: drawdrawo
+Base words: ['padrawdrawo']
+
+Stem: sepu
+Base words: ['kisepu', 'sepuu', 'musepu', 'sepuaw']
+
+Stem: payas
+Base words: ['payasan', 'papayas', 'payasu', 'payasanay', 'payasi', 'payasaw']
+
+Stem: saiguwan
+Base words: ['kasaiguwan', 'kisaiguwan']
+
+Stem: ngotngot
+Base words: ['mengotngot', 'ngotngotaw']
+
+Stem: lumek
+Base words: ['melumek', 'lumekaw', 'lumeku']
+
+Stem: raperap
+Base words: ['raperapan', 'raperapaw', 'raperapay', 'meraperap', 'raperapu']
+
+Stem: sababa
+Base words: ['pisababa', 'misababa']
+
+Stem: gotrgotro
+Base words: ['pagotrgotro']
+
+Stem: palaladam
+Base words: ['palaladami', 'ipalaladam']
+
+Stem: sepad
+Base words: ['sepadi', 'kisepad', 'sepadanay', 'sepadan']
+
+Stem: trule
+Base words: ['matrule']
+
+Stem: wayway
+Base words: ['miwayway']
+
+Stem: pinulrangan
+Base words: ['mipinulrangan']
+
+Stem: dokelo
+Base words: ['padokelo']
+
+Stem: mo
+Base words: ['kanmo', 'ramo']
+
+Stem: irop
+Base words: ['iropanay', 'emirop', 'mairop', 'iropan']
+
+Stem: ngatuy
+Base words: ['mangatuy']
+
+Stem: polroto
+Base words: ['papolroto']
+
+Stem: labo
+Base words: ['milabo']
+
+Stem: toro
+Base words: ['toroi', 'patoro']
+
+Stem: dradrowayan
+Base words: ['padradrowayan']
+
+Stem: trepoko
+Base words: ['patrepoko']
+
+Stem: nauwi
+Base words: ['panauwi']
+
+Stem: trali
+Base words: ['tralii', 'kitrali']
+
+Stem: base
+Base words: ['mubase', 'baseay', 'basei', 'baseanay']
+
+Stem: trakepalr
+Base words: ['trakepalru', 'mutrakepalr', 'trakepalraw', 'trakepalran']
+
+Stem: songalo
+Base words: ['pasongalo']
+
+Stem: suang
+Base words: ['suangu', 'suangaw', 'misuang']
+
+Stem: sayaiguan
+Base words: ['kasayaiguan']
+
+Stem: paowayan
+Base words: ['mipaowayan', 'paowayanay']
+
+Stem: paiso
+Base words: ['mipaiso']
+
+Stem: tenuk
+Base words: ['putenuk']
+
+Stem: timoremor
+Base words: ['matimoremor']
+
+Stem: pakabolay
+Base words: ['kipakabolay', 'pakabolayay', 'pakabolayi']
+
+Stem: saesa
+Base words: ['misaesa']
+
+Stem: polranga
+Base words: ['kipolranga']
+
+Stem: apar
+Base words: ['miapar']
+
+Stem: pitaun
+Base words: ['mipitaun']
+
+Stem: tratrungulr
+Base words: ['matratrungulr']
+
+Stem: rienop
+Base words: ['marienop', 'merienop', 'rienopay']
+
+Stem: lingaling
+Base words: ['malingaling']
+
+Stem: timela
+Base words: ['mitimela']
+
+Stem: ngai
+Base words: ['mangai']
+
+Stem: peres
+Base words: ['peresu', 'peresanay', 'muperes', 'peresaw']
+
+Stem: puwadrangi
+Base words: ['kipuwadrangi']
+
+Stem: naniyam
+Base words: ['kananiyam']
+
+Stem: nadri
+Base words: ['kanadri']
+
+Stem: tadraw
+Base words: ['mitadraw']
+
+Stem: odall
+Base words: ['maodall']
+
+Stem: biyutr
+Base words: ['biyutraw', 'mubiyutr']
+
+Stem: ciyang
+Base words: ['maciyang']
+
+Stem: waliyusan
+Base words: ['uwaliyusan']
+
+Stem: ngalangalad
+Base words: ['pungalangalad']
+
+Stem: gelgel
+Base words: ['gelgelaw', 'gelgelu', 'mugelgel']
+
+Stem: trebolr
+Base words: ['trebolran', 'mitrebolr']
+
+Stem: uri
+Base words: ['urii', 'miuri', 'inuri', 'emuri']
+
+Stem: rumaruma
+Base words: ['rarumaruma']
+
+Stem: uram
+Base words: ['urami', 'emuram', 'uramay', 'mauram']
+
+Stem: dradruwayan
+Base words: ['padradruwayan']
+
+Stem: temowan
+Base words: ['mitemowan']
+
+Stem: kaso
+Base words: ['kakaso']
+
+Stem: barasa
+Base words: ['mibarasa']
+
+Stem: tuwalray
+Base words: ['mituwalray']
+
+Stem: supengan
+Base words: ['masupengan']
+
+Stem: idro
+Base words: ['paidro']
+
+Stem: pakomaowan
+Base words: ['ipakomaowan']
+
+Stem: yu-ci
+Base words: ['iyu-ci']
+
+Stem: kepelu
+Base words: ['pakepelu']
+
+Stem: pamamelriyan
+Base words: ['kapamamelriyan']
+
+Stem: akanan
+Base words: ['kaakanan']
+
+Stem: tawlriyolr
+Base words: ['mitawlriyolr']
+
+Stem: waasalr
+Base words: ['uwaasalr']
+
+Stem: kotrem
+Base words: ['kakotrem']
+
+Stem: lipotro
+Base words: ['palipotro']
+
+Stem: salimutremutr
+Base words: ['salimutremutru', 'musalimutremutr', 'salimutremutraw']
+
+Stem: sari
+Base words: ['sasari']
+
+Stem: ata
+Base words: ['taata']
+
+Stem: wabaawan
+Base words: ['uwabaawan']
+
+Stem: asabak
+Base words: ['muasabak']
+
+Stem: saeruwan
+Base words: ['kasaeruwan']
+
+Stem: lubisan
+Base words: ['malubisan']
+
+Stem: lipedro
+Base words: ['palipedro']
+
+Stem: saob
+Base words: ['saobay', 'saobi', 'misaob']
+
+Stem: birowa
+Base words: ['mibirowa']
+
+Stem: paredek
+Base words: ['muparedek', 'paredekanay']
+
+Stem: ngangidrayan
+Base words: ['mingangidrayan']
+
+Stem: sikasok
+Base words: ['sikasokaw', 'masikasok']
+
+Stem: ridraridr
+Base words: ['ridraridraw', 'ridraridru', 'meridraridr']
+
+Stem: kiyaanon
+Base words: ['kiyaanonan', 'ikiyaanon']
+
+Stem: sulrud
+Base words: ['sasulrud', 'sulrudan', 'sulrudanay']
+
+Stem: songal
+Base words: ['sasongal', 'songalaw']
+
+Stem: takesi
+Base words: ['patakesi', 'takesian']
+
+Stem: karatro
+Base words: ['pakaratro']
+
+Stem: apat
+Base words: ['kaapat']
+
+Stem: inalidri
+Base words: ['miinalidri']
+
+Stem: dulras
+Base words: ['madulras']
+
+Stem: opidro
+Base words: ['paopidro']
+
+Stem: bonay
+Base words: ['sabonay']
+
+Stem: tenun
+Base words: ['tenunanay', 'tatenun', 'tenunu', 'tenunaw']
+
+Stem: ngisngis
+Base words: ['mingisngis', 'ngisngisaw']
+
+Stem: awado
+Base words: ['paawado']
+
+Stem: lamedok
+Base words: ['lamedokaw', 'malamedok']
+
+Stem: okayaw
+Base words: ['paokayaw']
+
+Stem: tiyam
+Base words: ['tatiyam']
+
+Stem: siyasing
+Base words: ['kisiyasing', 'siyasingay', 'siyasingan']
+
+Stem: drekan
+Base words: ['padrekan']
+
+Stem: trekab
+Base words: ['mutrekab', 'trekabu', 'trekabaw']
+
+Stem: dadepu
+Base words: ['midadepu', 'dadepuan']
+
+Stem: katring
+Base words: ['mikatring']
+
+Stem: adras
+Base words: ['emadras', 'maadras', 'adrasaw', 'adrasu']
+
+Stem: abalo
+Base words: ['abaloi', 'kaabalo']
+
+Stem: leman
+Base words: ['saleman']
+
+Stem: saub
+Base words: ['saubi', 'misaub', 'saubay']
+
+Stem: tengatengalr
+Base words: ['mutengatengalr']
+
+Stem: selrap
+Base words: ['selrapay', 'selrapi', 'saselrap']
+
+Stem: kutru
+Base words: ['bekutru']
+
+Stem: baliyan
+Base words: ['kabaliyan', 'baliyanay']
+
+Stem: udalr
+Base words: ['maudalr', 'udalray']
+
+Stem: kodrolr
+Base words: ['sakodrolr']
+
+Stem: bunga
+Base words: ['mibunga']
+
+Stem: kara
+Base words: ['karaaw', 'karau', 'kakara']
+
+Stem: walaesi
+Base words: ['uwalaesi']
+
+Stem: ulraya
+Base words: ['kaulraya']
+
+Stem: tenon
+Base words: ['tenonaw', 'tatenon', 'tenonanay']
+
+Stem: tapesu
+Base words: ['tapesuu', 'tapesuaw', 'mutapesu']
+
+Stem: adriyu
+Base words: ['kanadriyu']
+
+Stem: nadriyu
+Base words: ['kanadriyu']
+
+Stem: treli
+Base words: ['matreli']
+
+Stem: ungaw
+Base words: ['raungaw']
+
+Stem: tedrer
+Base words: ['tatedrer']
+
+Stem: buwa
+Base words: ['mibuwa']
+
+Stem: madrayara
+Base words: ['kimadrayara']
+
+Stem: tronga
+Base words: ['mitronga']
+
+Stem: tuludran
+Base words: ['tatuludran', 'tuludranay']
+
+Stem: poot
+Base words: ['mipoot']
+
+Stem: ngitngit
+Base words: ['mengitngit', 'ngitngitaw']
+
+Stem: arei
+Base words: ['kaarei']
+
+Stem: idong
+Base words: ['emidong', 'miidong', 'idongay', 'inidong']
+
+Stem: binasak
+Base words: ['mibinasak', 'binasakan']
+
+Stem: lingidan
+Base words: ['pulingidan']
+
+Stem: lremak
+Base words: ['milremak']
+
+Stem: walri
+Base words: ['miwalri']
+
+Stem: watuisingan
+Base words: ['uwatuisingan']
+
+Stem: atroro
+Base words: ['paatroro']
+
+Stem: ungtruy
+Base words: ['miungtruy']
+
+Stem: tulas
+Base words: ['tulasan', 'matulas']
+
+Stem: nanayan
+Base words: ['minanayan']
+
+Stem: likap
+Base words: ['melikap']
+
+Stem: pong
+Base words: ['kipong']
+
+Stem: podrong
+Base words: ['podrongay', 'mipodrong']
+
+Stem: ilang
+Base words: ['ilangan', 'mailang', 'emilang', 'pailang', 'ilangu']
+
+Stem: aretr
+Base words: ['aretru', 'aretraw', 'emaretr', 'muaretr']
+
+Stem: ulidan
+Base words: ['maulidan']
+
+Stem: sudrung
+Base words: ['misudrung']
+
+Stem: buli
+Base words: ['buliaw', 'mabuli', 'buliu']
+
+Stem: siritr
+Base words: ['siritru', 'siritraw', 'musiritr', 'siritranay', 'siritran']
+
+Stem: tubang
+Base words: ['tubangaw', 'tatubang', 'tubangu']
+
+Stem: botri
+Base words: ['mabotri']
+
+Stem: terekok
+Base words: ['miterekok']
+
+Stem: boaw
+Base words: ['kiboaw']
+
+Stem: urelra
+Base words: ['miurelra']
+
+Stem: kuwaalengan
+Base words: ['kakuwaalengan']
+
+Stem: potot
+Base words: ['mipotot']
+
+Stem: kolang
+Base words: ['kikolang']
+
+Stem: sunan
+Base words: ['sasunan']
+
+Stem: padrangal;
+Base words: ['kapadrangal;']
+
+Stem: pareoninan
+Base words: ['kapareoninan']
+
+Stem: sirep
+Base words: ['sirepaw', 'sirepu', 'pasirep']
+
+Stem: talrusabang
+Base words: ['mitalrusabang']
+
+Stem: ebes
+Base words: ['ebesanay', 'paebes']
+
+Stem: pakasagar
+Base words: ['pakasagaray', 'pakasagaran', 'pakasagari', 'kipakasagar']
+
+Stem: balro
+Base words: ['sabalro']
+
+Stem: yawan
+Base words: ['miyawan']
+
+Stem: sopengan
+Base words: ['masopengan']
+
+Stem: patrirebeng
+Base words: ['patrirebenganay', 'mupatrirebeng', 'patrirebengan']
+
+Stem: trarengtreng
+Base words: ['mitrarengtreng']
+
+Stem: trigtrig
+Base words: ['trigtrigu', 'trigtrigaw', 'mutrigtrig', 'trigtrigan']
+
+Stem: alialian
+Base words: ['mialialian']
+
+Stem: nanemu
+Base words: ['kananemu']
+
+Stem: tawlriyulr
+Base words: ['mitawlriyulr']
+
+Stem: luduludus
+Base words: ['miluduludus']
+
+Stem: amiyan
+Base words: ['kiamiyan']
+
+Stem: derderan
+Base words: ['miderderan']
+
+Stem: trengtreng
+Base words: ['patrengtreng']
+
+Stem: lawlaw
+Base words: ['nilawlaw', 'lawlaway', 'lawlawi']
+
+Stem: kuwarabakan
+Base words: ['mikuwarabakan']
+
+Stem: wallak
+Base words: ['miwallak']
+
+Stem: trekip
+Base words: ['trekipu', 'trekipaw', 'mutrekip']
+
+Stem: eleel
+Base words: ['emeleel', 'eleelu', 'ineleel', 'eleelanay', 'paeleel', 'eleelaw']
+
+Stem: lipad
+Base words: ['melipad']
+
+Stem: naowi
+Base words: ['panaowi']
+
+Stem: drimotro
+Base words: ['padrimotro']
+
+Stem: patraka
+Base words: ['mipatraka']
+
+Stem: sapotr
+Base words: ['sasapotr', 'sapotraw']
+
+Stem: tedrek
+Base words: ['mitedrek']
+
+Stem: trepar
+Base words: ['treparaw', 'mutrepar', 'treparu']
+
+Stem: boraw
+Base words: ['borawaw', 'borawan']
+
+Stem: saremud
+Base words: ['saremudan', 'saremudanay']
+
+Stem: padepe
+Base words: ['padepeay', 'padepei']
+
+Stem: morekes
+Base words: ['morekesan']
+
+Stem: atrur
+Base words: ['ematrur', 'atruru', 'inatrur', 'atruraw']
+
+Stem: aekan
+Base words: ['aekanaw', 'aekanan', 'aekani']
+
+Stem: idraidr
+Base words: ['idraidri', 'emidraidr', 'idraidray', 'idraidru']
+
+Stem: "
+Base words: ['"i']
+
+Stem: tabokolr
+Base words: ['tabokolraw', 'tabokolranay']
+
+Stem: pareadrar
+Base words: ['pareadraru', 'pareadraraw']
+
+Stem: posaninin
+Base words: ['posanininaw']
+
+Stem: telro
+Base words: ['telroan', 'telroay', 'telroi']
+
+Stem: pamili
+Base words: ['pamilianay', 'pamiliu', 'pamiliaw', 'pamilian']
+
+Stem: kalramalraman
+Base words: ['kalramalramanan']
+
+Stem: betreel
+Base words: ['betreelaw', 'betreelu']
+
+Stem: drulrutr
+Base words: ['drulrutru', 'drulrutraw', 'drulrutranay', 'drulrutran']
+
+Stem: tiktik
+Base words: ['tiktikay', 'tiktiki']
+
+Stem: kiyot
+Base words: ['kiyotaw']
+
+Stem: kangkang
+Base words: ['kangkangaw', 'kangkangan', 'kangkangu']
+
+Stem: baberay
+Base words: ['baberayan']
+
+Stem: kowarenang
+Base words: ['kowarenangi', 'kowarenangan']
+
+Stem: drimotr
+Base words: ['drimotraw']
+
+Stem: kualreng
+Base words: ['kualrengan']
+
+Stem: saksak
+Base words: ['saksaku', 'saksakaw']
+
+Stem: borek
+Base words: ['borekay', 'boreki']
+
+Stem: sobok
+Base words: ['sobokay', 'soboki', 'sobokanay']
+
+Stem: sangedralr
+Base words: ['sangedralranay', 'sangedralran']
+
+Stem: kungkuli
+Base words: ['kungkuliaw']
+
+Stem: powalak
+Base words: ['powalaki', 'powalakaw']
+
+Stem: baet
+Base words: ['baetaw']
+
+Stem: kiyapulrang
+Base words: ['kiyapulrangan']
+
+Stem: tratrima
+Base words: ['tratrimaan']
+
+Stem: paaperedran
+Base words: ['paaperedranay']
+
+Stem: padrayadrayar
+Base words: ['padrayadrayaraw', 'padrayadrayaran']
+
+Stem: makiros
+Base words: ['makirosan']
+
+Stem: abul
+Base words: ['inabul', 'abulu', 'abulaw']
+
+Stem: depo
+Base words: ['depoi', 'depoay', 'depoan']
+
+Stem: daleken
+Base words: ['dalekenan', 'dalekenaw', 'dalekenu']
+
+Stem: tragtrag
+Base words: ['tragtragi', 'tragtragan', 'tragtragay', 'tragtraganay']
+
+Stem: patalro
+Base words: ['patalroay', 'patalroi', 'patalroan', 'patalroanay']
+
+Stem: trapang
+Base words: ['trapangi', 'trapangay', 'trapanganay']
+
+Stem: mam
+Base words: ['maman', 'mamanay']
+
+Stem: pararagan
+Base words: ['pararaganan']
+
+Stem: kitolodr
+Base words: ['kitolodri', 'kitolodraw']
+
+Stem: daulr
+Base words: ['daulru', 'daulri', 'daulraw']
+
+Stem: pinatray
+Base words: ['pinatrayaw', 'pinatrayu']
+
+Stem: iy
+Base words: ['iyan']
+
+Stem: akerap
+Base words: ['akerapanay', 'akerapu', 'akerapaw']
+
+Stem: kuskus
+Base words: ['kuskusu', 'kuskusaw', 'kuskusan']
+
+Stem: tarapoyoma
+Base words: ['tarapoyomaan']
+
+Stem: gutrgutr
+Base words: ['gutrgutru', 'gutrgutray', 'gutrgutranay']
+
+Stem: getri
+Base words: ['getrianay', 'getriaw', 'getriu', 'getrian']
+
+Stem: telrpu
+Base words: ['telrpui']
+
+Stem: maotros
+Base words: ['maotrosan']
+
+Stem: baelay
+Base words: ['baelayi', 'baelayay']
+
+Stem: lremek
+Base words: ['lremekan']
+
+Stem: dradrimotr
+Base words: ['dradrimotri', 'dradrimotran']
+
+Stem: poatremel
+Base words: ['poatremelan']
+
+Stem: sirap
+Base words: ['sirapi', 'sirapay']
+
+Stem: pangese
+Base words: ['pangeseaw', 'pangeseu', 'pangesei']
+
+Stem: pingitr
+Base words: ['pingitraw', 'pingitru']
+
+Stem: trowak
+Base words: ['trowakay', 'trowaki', 'trowakanay']
+
+Stem: traolr
+Base words: ['traolray', 'traolri']
+
+Stem: salrebo
+Base words: ['salreboaw']
+
+Stem: mowaborek
+Base words: ['mowaborekan']
+
+Stem: olane
+Base words: ['olanean']
+
+Stem: llallak
+Base words: ['llallakan']
+
+Stem: trilrtrilr
+Base words: ['trilrtrilru', 'trilrtrilraw']
+
+Stem: pakakarun
+Base words: ['pakakarunan', 'pakakaruni']
+
+Stem: pagerareger
+Base words: ['pageraregeri', 'pageraregeru', 'pageraregeraw']
+
+Stem: depdep
+Base words: ['depdepan', 'depdepanay']
+
+Stem: korodr
+Base words: ['korodri', 'korodray']
+
+Stem: patiyup
+Base words: ['patiyupi', 'patiyupay']
+
+Stem: pespes
+Base words: ['pespesay', 'pespesi']
+
+Stem: topi
+Base words: ['topiaw', 'topian', 'topianay']
+
+Stem: karapiapotr
+Base words: ['karapiapotraw']
+
+Stem: aakan
+Base words: ['aakanan', 'aakani']
+
+Stem: pitpit
+Base words: ['pitpitanay', 'pitpitan', 'pitpitaw', 'pitpitu']
+
+Stem: pinongalad
+Base words: ['pinongaladan']
+
+Stem: sigasug
+Base words: ['sigasugaw', 'sigasugu']
+
+Stem: sipsip
+Base words: ['sipsipay', 'sipsipi']
+
+Stem: telru
+Base words: ['telruay', 'telrui', 'telruan']
+
+Stem: alum
+Base words: ['alumu']
+
+Stem: karauraub
+Base words: ['karaurauban']
+
+Stem: salrit
+Base words: ['salritay', 'salritu', 'salritanay', 'salritaw']
+
+Stem: awad
+Base words: ['awadan', 'awadanay', 'awadaw', 'emawad', 'awadu']
+
+Stem: karaadras
+Base words: ['karaadrasaw']
+
+Stem: drangalr
+Base words: ['drangalran']
+
+Stem: traliwis
+Base words: ['traliwisay', 'traliwisan', 'traliwisi']
+
+Stem: alrub
+Base words: ['alrubanay', 'alrubi', 'alrubay']
+
+Stem: pere
+Base words: ['pereu', 'pereanay', 'pereaw', 'perean']
+
+Stem: kowalido
+Base words: ['kowalidoan']
+
+Stem: palobelob
+Base words: ['palobelobay', 'palobelobi']
+
+Stem: kutkut
+Base words: ['kutkutaw', 'kutkutu', 'kutkutan']
+
+Stem: taeta
+Base words: ['taetaan', 'taetaay', 'taetaanay', 'taetai']
+
+Stem: sokotr
+Base words: ['sokotraw']
+
+Stem: drinerem
+Base words: ['drinereman']
+
+Stem: parpar
+Base words: ['parparaw', 'parparu']
+
+Stem: suruk
+Base words: ['surukan', 'surukanay']
+
+Stem: saremod
+Base words: ['saremodanay', 'saremodan']
+
+Stem: apit
+Base words: ['apitu', 'apitaw', 'apitanay', 'inapit']
+
+Stem: sinsi
+Base words: ['sinsian']
+
+Stem: makeser
+Base words: ['makeseran']
+
+Stem: dadikos
+Base words: ['dadikosaw', 'dadikosan']
+
+Stem: games
+Base words: ['gamesu', 'gamesaw']
+
+Stem: biyotr
+Base words: ['biyotraw']
+
+Stem: padokdok
+Base words: ['padokdokay', 'padokdoki']
+
+Stem: patabang
+Base words: ['patabanganay', 'patabangay', 'patabangi']
+
+Stem: poimar
+Base words: ['poimari', 'poimaray']
+
+Stem: babulabulay
+Base words: ['babulabulayan']
+
+Stem: patrungtrung
+Base words: ['patrungtrungaw', 'patrungtrungan']
+
+Stem: awiles
+Base words: ['awilesan']
+
+Stem: sipeleng
+Base words: ['sipelengan']
+
+Stem: piepi
+Base words: ['piepiaw', 'piepianay', 'piepiu', 'piepian']
+
+Stem: maaidrang
+Base words: ['maaidrangan']
+
+Stem: kerawidr
+Base words: ['kerawidru']
+
+Stem: kababaaw
+Base words: ['kababaawan']
+
+Stem: powatremel
+Base words: ['powatremelan']
+
+Stem: drundrun
+Base words: ['drundrunaw', 'drundrunu']
+
+Stem: sait
+Base words: ['saitan', 'saitanay']
+
+Stem: dapur
+Base words: ['dapuri', 'dapuray', 'dapuran']
+
+Stem: karaekan
+Base words: ['karaekanaw', 'karaekanu']
+
+Stem: pegis
+Base words: ['pegisu', 'pegisaw']
+
+Stem: kakowa
+Base words: ['kakowai']
+
+Stem: kiyaberay
+Base words: ['kiyaberayan']
+
+Stem: bulraw
+Base words: ['bulrawan']
+
+Stem: supay
+Base words: ['supayanay', 'supayaw', 'supayu']
+
+Stem: pamatang
+Base words: ['pamatangaw', 'pamatangi']
+
+Stem: pinaladam
+Base words: ['pinaladaman']
+
+Stem: kiyanedang
+Base words: ['kiyanedangan']
+
+Stem: on
+Base words: ['onan', 'enon']
+
+Stem: ubutr
+Base words: ['ubutraw', 'inubutr', 'ubutranay', 'ubutru', 'emubutr', 'ubutri']
+
+Stem: talaolep
+Base words: ['talaolepan']
+
+Stem: padonon
+Base words: ['padononay']
+
+Stem: piyakiruwan
+Base words: ['piyakiruwanan']
+
+Stem: pun
+Base words: ['puni']
+
+Stem: garam
+Base words: ['garamay']
+
+Stem: raotreng
+Base words: ['raotrengan']
+
+Stem: balangabang
+Base words: ['balangabangan']
+
+Stem: boreta
+Base words: ['boretai', 'boretaay']
+
+Stem: boot
+Base words: ['bootay', 'booti']
+
+Stem: bakebakan
+Base words: ['bakebakanay']
+
+Stem: olros
+Base words: ['emolros', 'olrosaw']
+
+Stem: aiay
+Base words: ['aiayu', 'aiayaw']
+
+Stem: doloos
+Base words: ['doloosaw']
+
+Stem: tomtoman
+Base words: ['tomtomanay']
+
+Stem: uringetr
+Base words: ['uringetran']
+
+Stem: pangtrel
+Base words: ['pangtrelu', 'pangtrelan', 'pangtrelaw']
+
+Stem: baretuk
+Base words: ['baretuki', 'baretukanay', 'baretuku', 'baretukaw']
+
+Stem: palublub
+Base words: ['palublubay', 'palubluban']
+
+Stem: suulr
+Base words: ['suulranay', 'suulraw', 'suulru']
+
+Stem: salretong
+Base words: ['salretongay', 'salretongi', 'salretongan']
+
+Stem: taktak
+Base words: ['taktakanay', 'taktakaw', 'taktaku', 'taktakan']
+
+Stem: sagar
+Base words: ['sagaran']
+
+Stem: repot
+Base words: ['repotaw']
+
+Stem: arengatrip
+Base words: ['emarengatrip', 'arengatripu', 'arengatripaw', 'arengatripan']
+
+Stem: mangmang
+Base words: ['mangmangan']
+
+Stem: kiyumalr
+Base words: ['kiyumalray', 'kiyumalri']
+
+Stem: trotros
+Base words: ['trotrosanay', 'trotrosan']
+
+Stem: aresodr
+Base words: ['emaresodr', 'aresodraw', 'aresodran']
+
+Stem: salrtrap
+Base words: ['salrtrapaw', 'salrtrapu', 'salrtrapanay', 'salrtrapan']
+
+Stem: sinubuk
+Base words: ['sinubukan']
+
+Stem: kikarun
+Base words: ['kikarunu', 'kikarunaw']
+
+Stem: powaisatr
+Base words: ['powaisatri']
+
+Stem: ulrek
+Base words: ['ulrekay', 'ulreki', 'emulrek']
+
+Stem: baekul
+Base words: ['baekulan', 'baekulanay']
+
+Stem: pinarisan
+Base words: ['pinarisanan']
+
+Stem: taturus
+Base words: ['taturusu', 'taturusaw']
+
+Stem: kitrkitr
+Base words: ['kitrkitranay', 'kitrkitraw', 'kitrkitru']
+
+Stem: baelr
+Base words: ['baelri']
+
+Stem: kuwareis
+Base words: ['kuwareisan']
+
+Stem: salimotremotr
+Base words: ['salimotremotraw']
+
+Stem: buraw
+Base words: ['burawan', 'burawu', 'burawaw']
+
+Stem: pakutrekutr
+Base words: ['pakutrekutri', 'pakutrekutray']
+
+Stem: powar
+Base words: ['powaray', 'powari']
+
+Stem: namalr
+Base words: ['namalri']
+
+Stem: abisul
+Base words: ['abisulan', 'abisulanay']
+
+Stem: pakotrekotr
+Base words: ['pakotrekotri', 'pakotrekotray']
+
+Stem: mararemeng
+Base words: ['mararemengan']
+
+Stem: pakopkopan
+Base words: ['pakopkopanay']
+
+Stem: ulitrung
+Base words: ['ulitrungay', 'ulitrungu', 'ulitrungaw', 'ulitrungi']
+
+Stem: patiyop
+Base words: ['patiyopi', 'patiyopay']
+
+Stem: karaoraob
+Base words: ['karaoraoban']
+
+Stem: kabowariaw
+Base words: ['kabowariawan']
+
+Stem: porikan
+Base words: ['porikanaw']
+
+Stem: atek
+Base words: ['ateku', 'ematek', 'atekaw', 'inatek', 'atekanay']
+
+Stem: patalru
+Base words: ['patalruay', 'patalruanay', 'patalrui', 'patalruan']
+
+Stem: karayas
+Base words: ['karayasaw', 'karayasu']
+
+Stem: dadikus
+Base words: ['dadikusu', 'dadikusaw', 'dadikusan']
+
+Stem: samek
+Base words: ['samekan']
+
+Stem: trebelr
+Base words: ['trebelran', 'trebelru', 'trebelraw', 'trebelri', 'trebelranay']
+
+Stem: alralrupe
+Base words: ['alralrupean']
+
+Stem: pinakesang
+Base words: ['pinakesangan']
+
+Stem: podare
+Base words: ['podareaw', 'podarei']
+
+Stem: oliitr
+Base words: ['oliitran']
+
+Stem: adrok
+Base words: ['emadrok', 'adrokaw', 'inadrok']
+
+Stem: draong
+Base words: ['draongay']
+
+Stem: deldel
+Base words: ['deldelu', 'deldelaw']
+
+Stem: susu
+Base words: ['susuay']
+
+Stem: dadokel
+Base words: ['dadokelan']
+
+Stem: gororos
+Base words: ['gororosan']
+
+Stem: beledas
+Base words: ['beledasu', 'beledasaw']
+
+Stem: pinudalan
+Base words: ['pinudalanan']
+
+Stem: powakedrang
+Base words: ['powakedrangi']
+
+Stem: polikodran
+Base words: ['polikodranaw']
+
+Stem: depu
+Base words: ['depuan', 'depuay', 'depui']
+
+Stem: baybay
+Base words: ['baybayu', 'baybayaw']
+
+Stem: posong
+Base words: ['posongi', 'posongay']
+
+Stem: soksok
+Base words: ['soksokay', 'soksoki', 'soksokaw']
+
+Stem: garem
+Base words: ['gareman', 'garemay']
+
+Stem: atrus
+Base words: ['atrusay', 'ematrus', 'atrusan']
+
+Stem: uliitr
+Base words: ['uliitran']
+
+Stem: laliputr
+Base words: ['laliputran']
+
+Stem: parebean
+Base words: ['parebeanay']
+
+Stem: maulep
+Base words: ['maulepan']
+
+Stem: taptap
+Base words: ['taptapu', 'taptapaw']
+
+Stem: tungul
+Base words: ['tungulu', 'tungulaw']
+
+Stem: puwarikan
+Base words: ['puwarikanan']
+
+Stem: maluman
+Base words: ['malumanan']
+
+Stem: babati
+Base words: ['babatiaw', 'babatii']
+
+Stem: muwaburek
+Base words: ['muwaburekan']
+
+Stem: suksuk
+Base words: ['suksuku', 'suksuki', 'suksukaw', 'suksukay']
+
+Stem: aoaw
+Base words: ['emaoaw', 'aoawi', 'aoaway']
+
+Stem: padaeda
+Base words: ['padaedau', 'padaedaaw']
+
+Stem: paatekan
+Base words: ['paatekanay']
+
+Stem: binetbet
+Base words: ['binetbetan']
+
+Stem: madolo
+Base words: ['madoloan']
+
+Stem: co
+Base words: ['cou']
+
+Stem: kiyanatray
+Base words: ['kiyanatrayan']
+
+Stem: patinako
+Base words: ['patinakoanay']
+
+Stem: trinalatralaw
+Base words: ['trinalatralawan']
+
+Stem: kerang
+Base words: ['kerangu', 'kerangaw']
+
+Stem: makiwalray
+Base words: ['makiwalrayan']
+
+Stem: purikan
+Base words: ['purikanaw', 'purikanu']
+
+Stem: parebeliyas
+Base words: ['parebeliyasaw', 'parebeliyasanay', 'parebeliyasu', 'parebeliyasay', 'parebeliyasan']
+
+Stem: alrob
+Base words: ['alrobi', 'alrobanay', 'alrobay']
+
+Stem: osabak
+Base words: ['osabakay']
+
+Stem: uyuy
+Base words: ['uyuyanay', 'emuyuy']
+
+Stem: kiyapolrang
+Base words: ['kiyapolrangan']
+
+Stem: kuwalidu
+Base words: ['kuwaliduan']
+
+Stem: baniken
+Base words: ['banikenu', 'banikenay']
+
+Stem: palreteng
+Base words: ['palretengay', 'palretengi']
+
+Stem: pelin
+Base words: ['pelinaw', 'pelinu', 'pelinay']
+
+Stem: puwaruma
+Base words: ['puwarumaan']
+
+Stem: pulrat
+Base words: ['pulrataw', 'pulratu']
+
+Stem: daremes
+Base words: ['daremesu', 'daremesaw']
+
+Stem: nanalr
+Base words: ['nanalri']
+
+Stem: daolr
+Base words: ['daolri', 'daolraw']
+
+Stem: pinikiruwan
+Base words: ['pinikiruwanan']
+
+Stem: pakupkupan
+Base words: ['pakupkupanay']
+
+Stem: niyaleotr
+Base words: ['niyaleotran']
+
+Stem: drelriya
+Base words: ['drelriyaan', 'drelriyaanay']
+
+Stem: sinasungal
+Base words: ['sinasungalan']
+
+Stem: raung
+Base words: ['raungu', 'raungaw']
+
+Stem: salretreg
+Base words: ['salretregaw', 'salretregu']
+
+Stem: sipure
+Base words: ['sipureaw', 'sipureu']
+
+Stem: kotkot
+Base words: ['kotkotaw', 'kotkotan']
+
+Stem: onon
+Base words: ['emonon', 'ononi', 'ononay', 'inonon']
+
+Stem: bas
+Base words: ['basay']
+
+Stem: kiyakaron
+Base words: ['kiyakaronan']
+
+Stem: marauraw
+Base words: ['maraurawan']
+
+Stem: kadrowan
+Base words: ['kadrowanan']
+
+Stem: truwak
+Base words: ['truwaki', 'truwakanay', 'truwakay']
+
+Stem: kuwarekakadaw
+Base words: ['kuwarekakadawan']
+
+Stem: babay
+Base words: ['babayan']
+
+Stem: isais
+Base words: ['isaisay', 'isaisanay', 'emisais', 'isaisan']
+
+Stem: salrebu
+Base words: ['salrebuaw', 'salrebuu']
+
+Stem: bosbos
+Base words: ['bosbosaw']
+
+Stem: pinungalad
+Base words: ['pinungaladan']
+
+Stem: palenak
+Base words: ['palenakanay']
+
+Stem: powalrak
+Base words: ['powalrakay']
+
+Stem: painuan
+Base words: ['painuanay']
+
+Stem: bikbik
+Base words: ['bikbikan', 'bikbikanay']
+
+Stem: papespesan
+Base words: ['papespesanay']
+
+Stem: bawang
+Base words: ['bawangay', 'bawangi']
+
+Stem: siperang
+Base words: ['siperangan']
+
+Stem: depel
+Base words: ['depelan', 'depelu']
+
+Stem: trinuwak
+Base words: ['trinuwakan']
+
+Stem: truray
+Base words: ['trurayu', 'trurayaw']
+
+Stem: drekedrek
+Base words: ['drekedreki', 'drekedrekay']
+
+Stem: tratrepok
+Base words: ['tratrepokan']
+
+Stem: dirus
+Base words: ['dirusu', 'dirusaw']
+
+Stem: tongol
+Base words: ['tongolaw']
+
+Stem: patreetre
+Base words: ['patreetreay']
+
+Stem: gusgus
+Base words: ['gusgusaw', 'gusgusu']
+
+Stem: aatelr
+Base words: ['aatelran']
+
+Stem: dukel
+Base words: ['dukelu', 'dukelaw']
+
+Stem: traulr
+Base words: ['traulri', 'traulray']
+
+Stem: illemes
+Base words: ['illemesan']
+
+Stem: moatrebong
+Base words: ['moatrebongay']
+
+Stem: telrpo
+Base words: ['telrpoi']
+
+Stem: tukus
+Base words: ['tukusaw', 'tukusu']
+
+Stem: ebeeb
+Base words: ['emebeeb', 'ebeeban', 'ebeebaw']
+
+Stem: olitrong
+Base words: ['olitrongay', 'olitrongaw', 'olitrongi']
+
+Stem: alay
+Base words: ['alayan', 'alayanay']
+
+Stem: kalemed
+Base words: ['kalemedu', 'kalemedaw']
+
+Stem: kinaulid
+Base words: ['kinaulidan']
+
+Stem: apiyar
+Base words: ['apiyaranay', 'apiyaran', 'emapiyar']
+
+Stem: niyaleutr
+Base words: ['niyaleutran']
+
+Stem: paradrok
+Base words: ['paradrokaw']
+
+Stem: korepadrek
+Base words: ['korepadreki', 'korepadrekay']
+
+Stem: pateras
+Base words: ['paterasi', 'paterasay']
+
+Stem: trokol
+Base words: ['trokolaw', 'trokolanay']
+
+Stem: sonong
+Base words: ['sonongan', 'sononganay']
+
+Stem: teres
+Base words: ['teresaw', 'teresan', 'teresi']
+
+Stem: padawak
+Base words: ['padawakay', 'padawaki']
+
+Stem: ameras
+Base words: ['emameras', 'amerasi', 'amerasay']
+
+Stem: kilratr
+Base words: ['kilratranay', 'kilratran', 'kilratru', 'kilratraw']
+
+Stem: tapeso
+Base words: ['tapesoaw']
+
+Stem: pinubini
+Base words: ['pinubinian']
+
+Stem: padunun
+Base words: ['padununay']
+
+Stem: tupi
+Base words: ['tupiu', 'tupianay', 'tupiaw', 'tupian']
+
+Stem: selrekang
+Base words: ['selrekangu', 'selrekangaw']
+
+Stem: kakuwayan
+Base words: ['kakuwayanan']
+
+Stem: ketket
+Base words: ['ketketaw', 'ketketanay', 'ketketu']
+
+Stem: singsing
+Base words: ['singsingan']
+
+Stem: tustus
+Base words: ['tustusaw']
+
+Stem: olrek
+Base words: ['emolrek', 'olrekay', 'olreki']
+
+Stem: bisin
+Base words: ['bisinaw', 'bisinu', 'bisinan']
+
+Stem: pakabekal
+Base words: ['pakabekalay', 'pakabekalaw']
+
+Stem: lalipotr
+Base words: ['lalipotran']
+
+Stem: basak
+Base words: ['basaku', 'basakaw']
+
+Stem: paallop
+Base words: ['paallopan']
+
+Stem: drinimotr
+Base words: ['drinimotran']
+
+Stem: lepaan
+Base words: ['lepaanay']
+
+Stem: taipe
+Base words: ['taipei']
+
+Stem: ngangalaw
+Base words: ['ngangalaway', 'ngangalawi']
+
+Stem: pasilring
+Base words: ['pasilringanay', 'pasilringan']
+
+Stem: kinatengadraw
+Base words: ['kinatengadrawan']
+
+Stem: taemolr
+Base words: ['taemolranay', 'taemolran']
+
+Stem: owapatraran
+Base words: ['owapatraranan']
+
+Stem: kowatis
+Base words: ['kowatisan']
+
+Stem: drerukurukun
+Base words: ['drerukurukunan']
+
+Stem: aabak
+Base words: ['aabakan']
+
+Stem: pinobini
+Base words: ['pinobinian']
+
+Stem: ulrigulr
+Base words: ['ulrigulran']
+
+Stem: paelipas
+Base words: ['paelipasaw']
+
+Stem: sabelaw
+Base words: ['sabelawan']
+
+Stem: karaoisatr
+Base words: ['karaoisatray']
+
+Stem: rapi
+Base words: ['rapian']
+
+Stem: tangesap
+Base words: ['tangesapu', 'tangesapaw']
+
+Stem: tapelra
+Base words: ['tapelraanay', 'tapelraan']
+
+Stem: porebo
+Base words: ['poreboi']
+
+Stem: pasos
+Base words: ['pasosi', 'pasosay']
+
+Stem: sudrsudr
+Base words: ['sudrsudraw', 'sudrsudru']
+
+Stem: pakapkapan
+Base words: ['pakapkapanay']
+
+Stem: kikaron
+Base words: ['kikaronaw']
+
+Stem: patinaku
+Base words: ['patinakuanay']
+
+Stem: tratrekel
+Base words: ['tratrekeli', 'tratrekelan']
+
+Stem: kitrebong
+Base words: ['kitrebongaw']
+
+Stem: pobini
+Base words: ['pobinianay', 'pobinian']
+
+Stem: kupatr
+Base words: ['kupatru', 'kupatraw']
+
+Stem: makirus
+Base words: ['makirusan']
+
+Stem: paliputran
+Base words: ['paliputranay']
+
+Stem: kedreles
+Base words: ['kedrelesan']
+
+Stem: palabi
+Base words: ['palabii', 'palabiay']
+
+Stem: tragetrag
+Base words: ['tragetragan']
+
+Stem: alapos
+Base words: ['alaposay']
+
+Stem: paidr
+Base words: ['paidraw', 'paidru']
+
+Stem: kabuwariaw
+Base words: ['kabuwariawan']
+
+Stem: pinodalan
+Base words: ['pinodalanan']
+
+Stem: karabase
+Base words: ['karabaseay']
+
+Stem: madulu
+Base words: ['maduluan']
+
+Stem: todro
+Base words: ['todroan', 'todroaw']
+
+Stem: adruk
+Base words: ['adruku', 'inadruk', 'emadruk', 'adrukaw']
+
+Stem: betrir
+Base words: ['betriray', 'betriri']
+
+Stem: trakaw
+Base words: ['trakaway', 'trakawaw', 'trakawan', 'trakawu', 'trakawi']
+
+Stem: parenang
+Base words: ['parenangu', 'parenangaw']
+
+Stem: kuret
+Base words: ['kuretan', 'kuretanay']
+
+Stem: piyakirowan
+Base words: ['piyakirowanan']
+
+Stem: baksiw
+Base words: ['baksiwanay', 'baksiwaw', 'baksiwu']
+
+Stem: owaborek
+Base words: ['owaborekan']
+
+Stem: puwatremel
+Base words: ['puwatremelan']
+
+Stem: aaip
+Base words: ['aaipan']
+
+Stem: towaemo
+Base words: ['towaemoan', 'towaemoaw']
+
+Stem: oam
+Base words: ['oami']
+
+Stem: binoraw
+Base words: ['binorawan']
+
+Stem: lagaw
+Base words: ['lagawi', 'lagaway']
+
+Stem: dalus
+Base words: ['dalusan']
+
+Stem: draruk
+Base words: ['draruku', 'drarukaw']
+
+Stem: tapesi
+Base words: ['tapesiay', 'tapesianay', 'tapesian', 'tapesii']
+
+Stem: sinasalem
+Base words: ['sinasaleman']
+
+Stem: paailring
+Base words: ['paailringan']
+
+Stem: talaulep
+Base words: ['talaulepan']
+
+Stem: traptrap
+Base words: ['traptrapan', 'traptrapaw', 'traptrapu']
+
+Stem: bekotr
+Base words: ['bekotraw']
+
+Stem: palipotran
+Base words: ['palipotranay']
+
+Stem: kalredru
+Base words: ['kalredruu', 'kalredruan', 'kalredruaw']
+
+Stem: tabusuk
+Base words: ['tabusukaw', 'tabusuku']
+
+Stem: salipongpong
+Base words: ['salipongpongay']
+
+Stem: trapelray
+Base words: ['trapelrayay', 'trapelrayi']
+
+Stem: pusik
+Base words: ['pusiku', 'pusikay']
+
+Stem: diros
+Base words: ['dirosaw']
+
+Stem: piyaisatr
+Base words: ['piyaisatru']
+
+Stem: draung
+Base words: ['draungay']
+
+Stem: tadrar
+Base words: ['tadraranay', 'tadraran']
+
+Stem: buwar
+Base words: ['buwaraw', 'buwaru']
+
+Stem: kowarekakadaw
+Base words: ['kowarekakadawan']
+
+Stem: puwarebu
+Base words: ['puwarebuan']
+
+Stem: dradrimutr
+Base words: ['dradrimutran', 'dradrimutri']
+
+Stem: tungtung
+Base words: ['tungtungan']
+
+Stem: babatiyan
+Base words: ['babatiyanay']
+
+Stem: karaub
+Base words: ['karauban']
+
+Stem: troray
+Base words: ['trorayaw']
+
+Stem: rigesis
+Base words: ['rigesisan']
+
+Stem: pispis
+Base words: ['pispisu', 'pispisaw']
+
+Stem: bolraw
+Base words: ['bolrawan']
+
+Stem: abaal
+Base words: ['abaalan']
+
+Stem: paloblob
+Base words: ['palobloban', 'paloblobay']
+
+Stem: padreedre
+Base words: ['padreedrei', 'padreedreay']
+
+Stem: pongalangalad
+Base words: ['pongalangaladay']
+
+Stem: amaw
+Base words: ['amawaw']
+
+Stem: karapiaputr
+Base words: ['karapiaputraw', 'karapiaputru']
+
+Stem: poenay
+Base words: ['poenayi', 'poenayay']
+
+Stem: takis
+Base words: ['takisaw', 'takisi']
+
+Stem: kituludr
+Base words: ['kituludri', 'kituludraw', 'kituludru']
+
+Stem: powarikan
+Base words: ['powarikanan']
+
+Stem: kiyut
+Base words: ['kiyutaw', 'kiyutu']
+
+Stem: padukduk
+Base words: ['padukduki', 'padukdukay']
+
+Stem: alrepat
+Base words: ['alrepatan']
+
+Stem: kakuwa
+Base words: ['kakuwai']
+
+Stem: kiyomalr
+Base words: ['kiyomalray', 'kiyomalri']
+
+Stem: dokel
+Base words: ['dokelaw']
+
+Stem: angebu
+Base words: ['angebuan']
+
+Stem: kingkiw
+Base words: ['kingkiwaw']
+
+Stem: dadaway
+Base words: ['dadawayan']
+
+Stem: padrek
+Base words: ['padreku', 'padrekaw', 'padrekan']
+
+Stem: palrupe
+Base words: ['palrupeu', 'palrupeaw']
+
+Stem: ales
+Base words: ['emales', 'alesu', 'alesaw']
+
+Stem: uwaburek
+Base words: ['uwaburekan']
+
+Stem: kalralrupe
+Base words: ['kalralrupean']
+
+Stem: bureta
+Base words: ['buretai', 'buretaay']
+
+Stem: alaw
+Base words: ['alaway', 'emalaw']
+
+Stem: isaus
+Base words: ['isausu', 'emisaus', 'isausan']
+
+Stem: kiyumall
+Base words: ['kiyumallay']
+
+Stem: patenokan
+Base words: ['patenokanay']
+
+Stem: sorok
+Base words: ['sorokan', 'sorokanay']
+
+Stem: kipuwabetan
+Base words: ['kipuwabetanan']
+
+Stem: paketrep
+Base words: ['paketrepi', 'paketrepay']
+
+Stem: paelriwang
+Base words: ['paelriwangan']
+
+Stem: salretik
+Base words: ['salretiki', 'salretikay', 'salretikan']
+
+Stem: sukutr
+Base words: ['sukutraw', 'sukutru']
+
+Stem: pisel
+Base words: ['piselaw', 'piselu']
+
+Stem: podalan
+Base words: ['podalanay', 'podalani']
+
+Stem: kiniyaanger
+Base words: ['kiniyaangeran']
+
+Stem: bekelr
+Base words: ['bekelru', 'bekelraw']
+
+Stem: but
+Base words: ['butay', 'buti']
+
+Stem: matratreme
+Base words: ['matratremean']
+
+Stem: sepian
+Base words: ['sepianay']
+
+Stem: areetr
+Base words: ['areetran']
+
+Stem: pedrpedr
+Base words: ['pedrpedru', 'pedrpedraw']
+
+Stem: apuaputr
+Base words: ['apuaputran']
+
+Stem: maranger
+Base words: ['marangeran']
+
+Stem: piningaiyan
+Base words: ['piningaiyanan']
+
+Stem: patrir
+Base words: ['patriru', 'patriraw']
+
+Stem: arik
+Base words: ['emarik', 'arikan', 'ariku', 'arikaw', 'arikanay']
+
+Stem: trinima
+Base words: ['trinimaan']
+
+Stem: tengedr
+Base words: ['tengedri', 'tengedray']
+
+Stem: maloman
+Base words: ['malomanan']
+
+Stem: tralrebek
+Base words: ['tralrebekan']
+
+Stem: oisatr
+Base words: ['oisatri', 'oisatray']
+
+Stem: palrope
+Base words: ['palropeaw']
+
+Stem: kadrowadrowan
+Base words: ['kadrowadrowanan']
+
+Stem: pakasemangal
+Base words: ['pakasemangalay']
+
+Stem: pinabulas
+Base words: ['pinabulasan']
+
+Stem: gotrgotr
+Base words: ['gotrgotray', 'gotrgotranay']
+
+Stem: poroma
+Base words: ['poromaaw']
+
+Stem: teber
+Base words: ['teberanay', 'teberan']
+
+Stem: kirikirim
+Base words: ['kirikirimaw', 'kirikirimu']
+
+Stem: pasus
+Base words: ['pasusay', 'pasusi']
+
+Stem: puwaenay
+Base words: ['puwaenayan']
+
+Stem: kalalinay
+Base words: ['kalalinayi', 'kalalinayan']
+
+Stem: pasabong
+Base words: ['pasabongaw']
+
+Stem: tama
+Base words: ['tamai']
+
+Stem: isaos
+Base words: ['emisaos', 'isaosan']
+
+Stem: kelawang
+Base words: ['kelawangaw', 'kelawangu']
+
+Stem: garetim
+Base words: ['garetimi', 'garetimu', 'garetimaw']
+
+Stem: kurudr
+Base words: ['kurudri', 'kurudray']
+
+Stem: kaageagelr
+Base words: ['kaageagelru']
+
+Stem: dineldel
+Base words: ['dineldelan']
+
+Stem: maolep
+Base words: ['maolepan']
+
+Stem: lablab
+Base words: ['lablabaw', 'lablabu']
+
+Stem: padrekedrekan
+Base words: ['padrekedrekanay']
+
+Stem: gilregilr
+Base words: ['gilregilran', 'gilregilranay']
+
+Stem: baretok
+Base words: ['baretokanay', 'baretokaw', 'baretoki']
+
+Stem: sinanga
+Base words: ['sinangaan']
+
+Stem: parebowa
+Base words: ['parebowaaw']
+
+Stem: kiyaumalr
+Base words: ['kiyaumalran']
+
+Stem: sigasog
+Base words: ['sigasogaw']
+
+Stem: sadeko
+Base words: ['sadekoan']
+
+Stem: trerees
+Base words: ['trereesu', 'trereesaw']
+
+Stem: lamuk
+Base words: ['lamukan']
+
+Stem: pakakaron
+Base words: ['pakakaroni', 'pakakaronan']
+
+Stem: aapetr
+Base words: ['aapetran']
+
+Stem: salopiyang
+Base words: ['salopiyangi', 'salopiyangaw']
+
+Stem: pararadrok
+Base words: ['pararadrokan']
+
+Stem: balokbok
+Base words: ['balokbokan']
+
+Stem: karaabel
+Base words: ['karaabelaw', 'karaabelu']
+
+Stem: tinililr
+Base words: ['tinililran']
+
+Stem: duluus
+Base words: ['duluusaw']
+
+Stem: patreelr
+Base words: ['patreelri', 'patreelray']
+
+Stem: kasayaigo
+Base words: ['kasayaigoan']
+
+Stem: kurepadrek
+Base words: ['kurepadreki', 'kurepadrekay']
+
+Stem: parekep
+Base words: ['parekepaw']
+
+Stem: sopay
+Base words: ['sopayanay', 'sopayaw']
+
+Stem: sadeku
+Base words: ['sadekuan']
+
+Stem: magonggong
+Base words: ['magonggongan']
+
+Stem: muwaruma
+Base words: ['muwarumaan']
+
+Stem: kinaolid
+Base words: ['kinaolidan']
+
+Stem: mobi
+Base words: ['mobii']
+
+Stem: saer
+Base words: ['saeran', 'saeru', 'saeranay']
+
+Stem: karekitekiteng
+Base words: ['karekitekitengaw']
+
+Stem: kadruwadruwan
+Base words: ['kadruwadruwanan']
+
+Stem: kalalaok
+Base words: ['kalalaokan']
+
+Stem: maolid
+Base words: ['maolidan']
+
+Stem: lamok
+Base words: ['lamokan']
+
+Stem: aled
+Base words: ['aledu']
+
+Stem: baekol
+Base words: ['baekolanay', 'baekolan']
+
+Stem: balrok
+Base words: ['balrokaw']
+
+Stem: maagelr
+Base words: ['maagelran']
+
+Stem: kitrebung
+Base words: ['kitrebungu', 'kitrebungaw']
+
+Stem: drelretr
+Base words: ['drelretru', 'drelretraw']
+
+Stem: karaob
+Base words: ['karaoban']
+
+Stem: salretrun
+Base words: ['salretrunaw', 'salretrunu']
+
+Stem: aabel
+Base words: ['aabelan']
+
+Stem: poisatr
+Base words: ['poisatraw']
+
+Stem: penana
+Base words: ['penanaan']
+
+Stem: soolr
+Base words: ['soolraw', 'soolranay']
+
+Stem: koalreng
+Base words: ['koalrengan']
+
+Stem: kiniyakarun
+Base words: ['kiniyakarunan']
+
+Stem: pogota
+Base words: ['pogotaay']
+
+Stem: sekop
+Base words: ['sekopaw']
+
+Stem: kasasangal
+Base words: ['kasasangalan']
+
+Stem: idriidriwan
+Base words: ['idriidriwanan']
+
+Stem: pinanini
+Base words: ['pinaninian']
+
+Stem: balitroetro
+Base words: ['balitroetroaw']
+
+Stem: kalredro
+Base words: ['kalredroaw', 'kalredroan']
+
+Stem: tratrepuk
+Base words: ['tratrepukan']
+
+Stem: Taipe
+Base words: ['Taipei']
+
+Stem: piyalaodr
+Base words: ['piyalaodraw']
+
+Stem: dinawadaway
+Base words: ['dinawadawayan']
+
+Stem: pakalladram
+Base words: ['pakalladramay']
+
+Stem: getil
+Base words: ['getilaw', 'getilu']
+
+Stem: tongtong
+Base words: ['tongtongan']
+
+Stem: kallalladram
+Base words: ['kallalladraman']
+
+Stem: angebo
+Base words: ['angeboan']
+
+Stem: drolrotr
+Base words: ['drolrotran', 'drolrotraw', 'drolrotranay']
+
+Stem: dapor
+Base words: ['daporan', 'daporay', 'dapori']
+
+Stem: padradriyar
+Base words: ['padradriyaran']
+
+Stem: pakaratran
+Base words: ['pakaratranay']
+
+Stem: kowaredikes
+Base words: ['kowaredikesan']
+
+Stem: taekol
+Base words: ['taekolanay', 'taekolan']
+
+Stem: taekul
+Base words: ['taekulan', 'taekulanay']
+
+Stem: auaw
+Base words: ['emauaw', 'auaway', 'auawi']
+
+Stem: patatala
+Base words: ['patatalaan']
+
+Stem: kiyaami
+Base words: ['kiyaamii', 'kiyaamiay']
+
+Stem: pusung
+Base words: ['pusungay', 'pusungi']
+
+Stem: dinepu
+Base words: ['dinepuan']
+
+Stem: aresudr
+Base words: ['emaresudr', 'aresudran', 'aresudraw', 'aresudru']
+
+Stem: pakakowatis
+Base words: ['pakakowatisaw']
+
+Stem: sapay
+Base words: ['sapayanay', 'sapayan']
+
+Stem: awatr
+Base words: ['awatran']
+
+Stem: kinuret
+Base words: ['kinuretan']
+
+Stem: posalay
+Base words: ['posalayan', 'posalayi', 'posalayay']
+
+Stem: atros
+Base words: ['atrosay', 'ematros', 'atrosan']
+
+Stem: sapsap
+Base words: ['sapsapanay', 'sapsapi', 'sapsapan', 'sapsapay']
+
+Stem: pakaodalr
+Base words: ['pakaodalran']
+
+Stem: seksek
+Base words: ['seksekay', 'sekseki', 'seksekanay', 'seksekan']
+
+Stem: maretru
+Base words: ['maretruan']
+
+Stem: mowaroma
+Base words: ['mowaromaan']
+
+Stem: saumayan
+Base words: ['saumayanan']
+
+Stem: pikatagaguwin
+Base words: ['pikatagaguwinan']
+
+Stem: kowareis
+Base words: ['kowareisan']
+
+Stem: palubelub
+Base words: ['palubelubi', 'palubelubay']
+
+Stem: mangede
+Base words: ['mangedean']
+
+Stem: panaowan
+Base words: ['panaowanay']
+
+Stem: towaabay
+Base words: ['towaabayan']
+
+Stem: pasiesi
+Base words: ['pasiesiay', 'pasiesii']
+
+Stem: padukeduk
+Base words: ['padukeduki']
+
+Stem: drawdraw
+Base words: ['drawdrawaw', 'drawdrawu']
+
+Stem: kaagelr
+Base words: ['kaagelran']
+
+Stem: patengteng
+Base words: ['patengtengan']
+
+Stem: mudremudr
+Base words: ['mudremudraw']
+
+Stem: dadaolr
+Base words: ['dadaolraw']
+
+Stem: uwallepus
+Base words: ['uwallepusan']
+
+Stem: bot
+Base words: ['boti', 'botay']
+
+Stem: karadruk
+Base words: ['karadrukan']
+
+Stem: kiniyakaron
+Base words: ['kiniyakaronan']
+
+Stem: esees
+Base words: ['eseesaw']
+
+Stem: panaana
+Base words: ['panaanaan']
+
+Stem: pinarisarisan
+Base words: ['pinarisarisanan']
+
+Stem: pinatedrelr
+Base words: ['pinatedrelran']
+
+Stem: seese
+Base words: ['seeseaw', 'seeseu']
+
+Stem: pon
+Base words: ['poni']
+
+Stem: karasenay
+Base words: ['karasenayaw']
+
+Stem: dadaulr
+Base words: ['dadaulraw']
+
+Stem: sinaub
+Base words: ['sinauban']
+
+Stem: maretro
+Base words: ['maretroan']
+
+Stem: pasabung
+Base words: ['pasabungaw']
+
+Stem: kureayaw
+Base words: ['kureayawan']
+
+Stem: drilreketr
+Base words: ['drilreketran']
+
+Stem: benaw
+Base words: ['benawi']
+
+Stem: idang
+Base words: ['idangan']
+
+Stem: taemulr
+Base words: ['taemulranay', 'taemulran']
+
+Stem: iyup
+Base words: ['iyupay', 'iyupi', 'iyupan', 'emiyup']
+
+Stem: palrapalraw
+Base words: ['palrapalrawan']
+
+Stem: posiyaw
+Base words: ['posiyawi', 'posiyaway']
+
+Stem: puwaludus
+Base words: ['puwaludusan']
+
+Stem: bulay
+Base words: ['bulayan']
+
+Stem: lapongas
+Base words: ['lapongasi', 'lapongasaw']
+
+Stem: tragal
+Base words: ['tragali', 'tragalay']
+
+Stem: drinimutr
+Base words: ['drinimutran']
+
+Stem: ali
+Base words: ['alian', 'aliu']
+
+Stem: kiskis
+Base words: ['kiskisaw', 'kiskisu']
+
+Stem: potabo
+Base words: ['potaboay']
+
+Stem: powabini
+Base words: ['powabinian']
+
+Stem: piyalaudr
+Base words: ['piyalaudraw']
+
+Stem: patrilrtrilran
+Base words: ['patrilrtrilranay']
+
+Stem: owaroma
+Base words: ['owaromaan']
+
+Stem: puwakedrang
+Base words: ['puwakedrangi']
+
+Stem: kuwaredikes
+Base words: ['kuwaredikesan']
+
+Stem: pinaradruk
+Base words: ['pinaradrukan']
+
+Stem: polrat
+Base words: ['polrataw']
+
+Stem: galemgem
+Base words: ['galemgeman']
+
+Stem: sakilr
+Base words: ['sakilraw', 'sakilru']
+
+Stem: abisol
+Base words: ['abisolanay', 'abisolan']
+
+Stem: salriesi
+Base words: ['salriesian']
+
+Stem: kilrkilr
+Base words: ['kilrkilraw']
+
+Stem: oliyos
+Base words: ['oliyosan']
+
+Stem: karaidrus
+Base words: ['karaidrusaw']
+
+Stem: sipore
+Base words: ['siporeaw']
+
+Stem: popatraran
+Base words: ['popatraranaw']
+
+Stem: trinekel
+Base words: ['trinekelan']
+
+Stem: pakaidangan
+Base words: ['pakaidanganay']
+
+Stem: paradruk
+Base words: ['paradrukaw', 'paradruku']
+
+Stem: puwabini
+Base words: ['puwabinian']
+
+Stem: kalalauk
+Base words: ['kalalaukan']
+
+Stem: kupkup
+Base words: ['kupkupaw', 'kupkupu']
+
+Stem: pinadrayaran
+Base words: ['pinadrayaranan']
+
+Stem: pinaradrok
+Base words: ['pinaradrokan']
+
+Stem: arelret
+Base words: ['arelretan']
+
+Stem: buut
+Base words: ['buutay', 'buuti']
+
+Stem: tingis
+Base words: ['tingisu', 'tingisaw']
+
+Stem: trutrus
+Base words: ['trutrusanay', 'trutrusan']
+
+Stem: kolokolong
+Base words: ['kolokolongan', 'kolokolongaw']
+
+Stem: derese
+Base words: ['dereseaw', 'dereseu']
+
+Stem: bolay
+Base words: ['bolayan']
+
+Stem: paretr
+Base words: ['paretranay', 'paretri']
+
+Stem: dalilr
+Base words: ['dalilran']
+
+Stem: ulane
+Base words: ['ulanean']
+
+Stem: driyar
+Base words: ['driyaran']
+
+Stem: posabak
+Base words: ['posabakanay', 'posabakaw']
+
+Stem: paliin
+Base words: ['paliinay', 'paliini']
+
+Stem: kamelamu
+Base words: ['kamelamui']
+
+Stem: salrsalr
+Base words: ['salrsalran']
+
+Stem: binuwang
+Base words: ['binuwangan']
+
+Stem: patrongtrong
+Base words: ['patrongtrongan', 'patrongtrongaw']
+
+Stem: polodos
+Base words: ['polodosaw']
+
+Stem: kolitr
+Base words: ['kolitray']
+
+Stem: aasalr
+Base words: ['aasalri', 'aasalran']
+
+Stem: sinalem
+Base words: ['sinaleman']
+
+Stem: angetrol
+Base words: ['angetrolan']
+
+Stem: katatengadraw
+Base words: ['katatengadrawan']
+
+Stem: binaaw
+Base words: ['binaawan']
+
+Stem: padpad
+Base words: ['padpadu', 'padpadaw']
+
+Stem: kalroba
+Base words: ['kalrobaan']
+
+Stem: magunggung
+Base words: ['magunggungan']
+
+Stem: piedreng
+Base words: ['piedrengaw']
+
+Stem: aalak
+Base words: ['aalaki', 'aalakan']
+
+Stem: aseb
+Base words: ['aseban']
+
+Stem: parebabeliyas
+Base words: ['parebabeliyasan', 'parebabeliyasi']
+
+Stem: sodrsodr
+Base words: ['sodrsodraw']
+
+Stem: bowar
+Base words: ['bowaraw']
+
+Stem: pinikirowan
+Base words: ['pinikirowanan']
+
+Stem: binaybay
+Base words: ['binaybayan']
+
+Stem: inedang
+Base words: ['inedangan']
+
+Stem: kinasagar
+Base words: ['kinasagaran']
+
+Stem: porabakan
+Base words: ['porabakanay']
+
+Stem: atreatr
+Base words: ['ematreatr', 'atreatray']
+
+Stem: apelr
+Base words: ['apelran']
+
+Stem: babolabolay
+Base words: ['babolabolayan']
+
+Stem: pinatrinapan
+Base words: ['pinatrinapanan']
+
+Stem: rautreng
+Base words: ['rautrengan']
+
+Stem: balretrebetr
+Base words: ['balretrebetran']
+
+Stem: powaenay
+Base words: ['powaenayan']
+
+Stem: kalrebeng
+Base words: ['kalrebengu', 'kalrebengaw']
+
+Stem: pinimanay
+Base words: ['pinimanayan']
+
+Stem: tamtam
+Base words: ['tamtamay', 'tamtami']
+
+Stem: kopatr
+Base words: ['kopatraw']
+
+Stem: tudru
+Base words: ['tudruan', 'tudruaw', 'tudruu']
+
+Stem: kadruwan
+Base words: ['kadruwanan']
+
+Stem: tinatatililr
+Base words: ['tinatatililran']
+
+Stem: posik
+Base words: ['posikay']
+
+Stem: tumtuman
+Base words: ['tumtumanay']
+
+Stem: ongong
+Base words: ['ongongaw', 'emongong']
+
+Stem: dadukel
+Base words: ['dadukelan']
+
+Stem: paretratrebong
+Base words: ['paretratrebongan']
+
+Stem: itreng
+Base words: ['itrengaw']
+
+Stem: parelrimalrimaw
+Base words: ['parelrimalrimawan']
+
+Stem: lalipad
+Base words: ['lalipadan']
+
+Stem: aitrol
+Base words: ['emaitrol', 'aitrolan']
+
+Stem: palalidring
+Base words: ['palalidringan', 'palalidringi']
+
+Stem: toktok
+Base words: ['toktokanay', 'toktokaw', 'toktokan']
+
+Stem: pararadruk
+Base words: ['pararadrukan']
+
+Stem: kiyarongetr
+Base words: ['kiyarongetran']
+
+Stem: kepkep
+Base words: ['kepkepaw', 'kepkepu']
+
+Stem: kurkur
+Base words: ['kurkuru', 'kurkuraw']
+
+Stem: alralrope
+Base words: ['alralropean']
+
+Stem: parebuwa
+Base words: ['parebuwaaw']
+
+Stem: patrepayan
+Base words: ['patrepayanay']
+
+Stem: kimadrikol
+Base words: ['kimadrikolaw']
+
+Stem: atrebong
+Base words: ['atrebongay']
+
+Stem: dipaw
+Base words: ['dipawaw']
+
+Stem: tostos
+Base words: ['tostosaw']
+
+Stem: ho
+Base words: ['hoi']
+
+Stem: puwakiping
+Base words: ['puwakipingan']
+
+Stem: hē
+Base words: ['hēi']
+
+Stem: oringetr
+Base words: ['oringetran']
+
+Stem: kiyakarun
+Base words: ['kiyakarunan']
+
+Stem: kulitr
+Base words: ['kulitray']
+
+Stem: kiyaomalr
+Base words: ['kiyaomalran']
+
+Stem: pangasip
+Base words: ['pangasipan']
+
+Stem: malobis
+Base words: ['malobisan']
+
+Stem: powaroma
+Base words: ['powaromaan']
+
+Stem: kongkoli
+Base words: ['kongkoliaw']
+
+Stem: pawsa
+Base words: ['pawsaan']
+
+Stem: koret
+Base words: ['koretanay', 'koretan']
+
+Stem: kipowabetan
+Base words: ['kipowabetanan']
+
+Stem: powarebo
+Base words: ['powareboan']
+
+Stem: aremeng
+Base words: ['aremengan']
+
+Stem: paretratrebung
+Base words: ['paretratrebungan']
+
+Stem: sangerop
+Base words: ['sangeropaw']
+
+Stem: pikatagagowin
+Base words: ['pikatagagowinan']
+
+Stem: sinaob
+Base words: ['sinaoban']
+
+Stem: porebowan
+Base words: ['porebowanay']
+
+Stem: pakaudalr
+Base words: ['pakaudalran']
+
+Stem: lraslras
+Base words: ['lraslrasi', 'lraslrasu', 'lraslrasay']
+
+Stem: soso
+Base words: ['sosoay']
+
+Stem: iyop
+Base words: ['emiyop', 'iyopan', 'iyopi', 'iyopay']
+
+Stem: taranapaw
+Base words: ['taranapawan', 'taranapawu']
+
+Stem: uwapatraran
+Base words: ['uwapatraranan']
+
+Stem: sinasongal
+Base words: ['sinasongalan']
+
+Stem: apoapotr
+Base words: ['apoapotran']
+
+Stem: poapotr
+Base words: ['poapotray']
+
+Stem: karauisatr
+Base words: ['karauisatray']
+
+Stem: kiyarungetr
+Base words: ['kiyarungetran']
+
+Stem: salikesik
+Base words: ['salikesikan']
+
+Stem: padelres
+Base words: ['padelresay', 'padelresi']
+
+Stem: binilin
+Base words: ['binilinan']
+
+Stem: taur
+Base words: ['tauru', 'tauraw']
+
+Stem: koskos
+Base words: ['koskosan', 'koskosaw']
+
+Stem: drinekalran
+Base words: ['drinekalranan']
+
+Stem: uam
+Base words: ['uami']
+
+Stem: karaebes
+Base words: ['karaebesay']
+
+Stem: kopkop
+Base words: ['kopkopaw']
+
+Stem: piniwalrak
+Base words: ['piniwalrakan']
+
+Stem: tokos
+Base words: ['tokosaw']
+
+Stem: kalabi
+Base words: ['kalabian']
+
+Stem: lringut
+Base words: ['lringutan']
+
+Stem: ulringulr
+Base words: ['ulringulran']
+
+Stem: koreis
+Base words: ['koreisay']
+
+Stem: pasingalad
+Base words: ['pasingaladay']
+
+Stem: mubi
+Base words: ['mubii']
+
+Stem: kinapadrangal
+Base words: ['kinapadrangalan']
+
+Stem: tebteb
+Base words: ['tebtebanay', 'tebtebu', 'tebtebaw']
+
+Stem: sinobok
+Base words: ['sinobokan']
+
+Stem: binowang
+Base words: ['binowangan']
+
+Stem: dalos
+Base words: ['dalosan']
+
+Stem: raong
+Base words: ['raongaw']
+
+Stem: dinepo
+Base words: ['dinepoan']
+
+Stem: pailring
+Base words: ['pailringanay', 'pailringay']
+
+Stem: bangesar
+Base words: ['bangesaran']
+
+Stem: lamilami
+Base words: ['lamilamiu', 'lamilamiaw']
+
+Stem: aaya
+Base words: ['aayaan']
+
+Stem: olrigolr
+Base words: ['olrigolran']
+
+Stem: kiyomall
+Base words: ['kiyomallay']
+
+Stem: momo
+Base words: ['momoan']
+
+Stem: powakiping
+Base words: ['powakipingan']
+
+Stem: owaarak
+Base words: ['owaarakan']
+
+Stem: tuwaabay
+Base words: ['tuwaabayan']
+
+Stem: mainay
+Base words: ['mainayan']
+
+Stem: modremodr
+Base words: ['modremodraw']
+
+Stem: araw
+Base words: ['arawi', 'araway', 'emaraw']
+
+Stem: karedreng
+Base words: ['karedrengan']
+
+Stem: semaseber
+Base words: ['semaseberan']
+
+Stem: araseas
+Base words: ['araseasan']
+
+Stem: pagelgelan
+Base words: ['pagelgelanay']
+
+Stem: dikes
+Base words: ['dikesi', 'dikesay']
+
+Stem: dinaway
+Base words: ['dinawayan']
+
+Stem: painoan
+Base words: ['painoanay']
+
+Stem: tarapuyuma
+Base words: ['tarapuyumaan']
+
+Stem: kureis
+Base words: ['kureisay']
+
+Stem: siyak
+Base words: ['siyaki']
+
+Stem: pakesup
+Base words: ['pakesupaw', 'pakesupu']
+
+Stem: atror
+Base words: ['ematror', 'atroraw', 'inatror']
+
+Stem: kasagasagar
+Base words: ['kasagasagaran']
+
+Stem: owaisatr
+Base words: ['owaisatran']
+
+Stem: semangal
+Base words: ['semangalan']
+
+Stem: elraw
+Base words: ['elrawi', 'elraway']
+
+Stem: kasasopeng
+Base words: ['kasasopengan']
+
+Stem: poabo
+Base words: ['poaboi']
+
+Stem: korkor
+Base words: ['korkoraw']
+
+Stem: aitrul
+Base words: ['emaitrul', 'aitrulan']
+
+Stem: oyoy
+Base words: ['emoyoy', 'oyoyanay']
+
+Stem: kitral
+Base words: ['kitrali']
+
+Stem: panauwan
+Base words: ['panauwanay']
+
+Stem: parepotan
+Base words: ['parepotanay']
+
+Stem: karaatelran
+Base words: ['karaatelranay']
+
+Stem: drerem
+Base words: ['dreremu', 'dreremaw']
+
+Stem: kasayaigu
+Base words: ['kasayaiguan']
+
+Stem: angetrul
+Base words: ['angetrulan']
+
+Stem: temakakes
+Base words: ['temakakesi']
+
+Stem: kiyabayan
+Base words: ['kiyabayanaw']
+
+Stem: angesis
+Base words: ['angesisan']
+
+Stem: olringolr
+Base words: ['olringolran']
+
+Stem: paresisan
+Base words: ['paresisanay']
+
+Stem: wata
+Base words: ['watai']
+
+Stem: pananini
+Base words: ['pananinian']
+
+Stem: kalauk
+Base words: ['kalaukan']
+
+Stem: baborek
+Base words: ['baborekan']
+
+Stem: petrik
+Base words: ['petrikay', 'petriki']
+
+Stem: pakakuwatis
+Base words: ['pakakuwatisaw']
+
+Stem: owallepos
+Base words: ['owalleposan']
+
+Stem: basok
+Base words: ['basokaw']
+
+Stem: padokedok
+Base words: ['padokedoki']
+
+Stem: kasasupeng
+Base words: ['kasasupengan']
+
+Stem: obotr
+Base words: ['emobotr', 'inobotr', 'obotraw', 'obotranay', 'obotri']
+
+Stem: minedang
+Base words: ['minedangan']
+
+Stem: pareneg
+Base words: ['parenegaw']
+
+Stem: patrapangan
+Base words: ['patrapanganay']
+
+Stem: mowabi
+Base words: ['mowabii']
+
+Stem: kamelamo
+Base words: ['kamelamoi']
+
+Stem: masupeng
+Base words: ['masupengan']
+
+Stem: kakowayan
+Base words: ['kakowayanan']
+
+Stem: koaleng
+Base words: ['koalengan']
+
+Stem: karanam
+Base words: ['karanaman']
+
+Stem: kualeng
+Base words: ['kualengan']
+
+Stem: kem
+Base words: ['kemay']
+
+Stem: amenin
+Base words: ['ameninan']
+
+Stem: paelrawan
+Base words: ['paelrawanay']
+
+Stem: pakesop
+Base words: ['pakesopaw']
+
+Stem: muwabi
+Base words: ['muwabii']
+
+Stem: dradrekadrekalr
+Base words: ['dradrekadrekalran']
+
+Stem: drondron
+Base words: ['drondronaw']
+
+Stem: malubis
+Base words: ['malubisan']
+
+Stem: poanger
+Base words: ['poangeray', 'poangeri']
+
+Stem: deelr
+Base words: ['deelri', 'deelray']
+
+Stem: balukbuk
+Base words: ['balukbukan']
+
+Stem: paaatedr
+Base words: ['paaatedran']
+
+Stem: purabakan
+Base words: ['purabakanay']
+
+Stem: tabosok
+Base words: ['tabosokaw']
+
+Stem: padikesan
+Base words: ['padikesanay']
+
+Stem: kimadrikul
+Base words: ['kimadrikulaw', 'kimadrikulu']
+
+Stem: kiniberay
+Base words: ['kiniberayan']
+
+Stem: linek
+Base words: ['linekan']
+
+Stem: tatoros
+Base words: ['tatorosaw']
+
+Stem: padradrayar
+Base words: ['padradrayaran']
+
+Stem: maraoraw
+Base words: ['maraorawan']
+
+Stem: sareedr
+Base words: ['sareedran']
+
+Stem: kalruba
+Base words: ['kalrubaan']
+
+Stem: patenukan
+Base words: ['patenukanay']
+
+Stem: kinoret
+Base words: ['kinoretan']
+
+Stem: mosaor
+Base words: ['mosaoran']
+
+Stem: taor
+Base words: ['taoraw']
+
+Stem: aledo
+Base words: ['aledoan']
+
+Stem: baburek
+Base words: ['baburekan']
+
+Stem: kalaok
+Base words: ['kalaokan']
+
+Stem: dipdip
+Base words: ['dipdipu', 'dipdipaw']
+
+Stem: kuwarenang
+Base words: ['kuwarenangan', 'kuwarenangi']
+
+Stem: poka
+Base words: ['pokai']
+
+Stem: mautrus
+Base words: ['mautrusan']
+
+Stem: sasellap
+Base words: ['sasellapi']
+
+Stem: tantan
+Base words: ['tantananay']
+
+Stem: pinabolas
+Base words: ['pinabolasan']
+
+Stem: karadrok
+Base words: ['karadrokan']
+
+Stem: paallup
+Base words: ['paallupan']
+
+Stem: kiyalrengaw
+Base words: ['kiyalrengawi']
+
+Stem: uwaruma
+Base words: ['uwarumaan']
+
+Stem: drerokorokon
+Base words: ['drerokorokonan']
+
+Stem: gosgos
+Base words: ['gosgosaw']
+
+Stem: pakasatran
+Base words: ['pakasatranay']
+
+Stem: abol
+Base words: ['abolaw', 'inabol']
+
+Stem: pinadang
+Base words: ['pinadangan']
+
+Stem: koreayaw
+Base words: ['koreayawan']
+
+Stem: maulid
+Base words: ['maulidan']
+
+Stem: salretron
+Base words: ['salretronaw']
+
+Stem: saliyamedang
+Base words: ['saliyamedangaw']
+
+Stem: pukayan
+Base words: ['pukayanay']
+
+Stem: kirekamelr
+Base words: ['kirekamelri']
+
+Stem: mowa
+Base words: ['mowai']
+
+Stem: malealab
+Base words: ['malealaban']
+
+Stem: tralrintrin
+Base words: ['tralrintrinan']
+
+Stem: binuraw
+Base words: ['binurawan']
+
+Stem: idrelan
+Base words: ['idrelanan']
+
+Stem: trinowak
+Base words: ['trinowakan']
+
+Stem: kalralrope
+Base words: ['kalralropean']
+
+Stem: kiyanedanedang
+Base words: ['kiyanedanedangan']
+
+Stem: lepon
+Base words: ['leponan']
+
+Stem: pakesip
+Base words: ['pakesipan']
+
+Stem: pinaragan
+Base words: ['pinaraganan']
+
+Stem: angeliw
+Base words: ['angeliwan']
+
+Stem: sangerup
+Base words: ['sangerupaw']
+
+Stem: drarok
+Base words: ['drarokaw']
+
+Stem: batring
+Base words: ['batringan']
+
+Stem: gisgis
+Base words: ['gisgisay']
+
+Stem: powalodos
+Base words: ['powalodosan']
+
+Stem: alapus
+Base words: ['alapusay']
+
+Stem: masopeng
+Base words: ['masopengan']
+
+Stem: karaidros
+Base words: ['karaidrosaw']
+
+Stem: alengatr
+Base words: ['alengatran']
+
+Stem: kadradreki
+Base words: ['kadradrekii']
+
+Stem: pinakadaw
+Base words: ['pinakadawan']
+
+Stem: saomayan
+Base words: ['saomayanan']
+
+Stem: babasak
+Base words: ['babasakan']
+
+Stem: pokayan
+Base words: ['pokayanay']
+
+Stem: lringot
+Base words: ['lringotan']
+
+Stem: rebowan
+Base words: ['rebowanay']
+
+Stem: aselr
+Base words: ['aselraw']
+
+Stem: poaliyotr
+Base words: ['poaliyotranay']
+
+Stem: semabalr
+Base words: ['semabalran']
+
+Stem: pareputan
+Base words: ['pareputanay']
+
+Stem: puatremel
+Base words: ['puatremelan']
+
+Stem: betriil
+Base words: ['betriilan']
+
+Stem: barawang
+Base words: ['barawangan']
+
+Stem: bekal
+Base words: ['bekalan']
+
+Stem: odreodrem
+Base words: ['emodreodrem']
+
+Stem: ayaayam
+Base words: ['emayaayam']
+
+Stem: uwaumayan
+Base words: ['inuwaumayan']
+
+Stem: owangong
+Base words: ['emowangong']
+
+Stem: arawa
+Base words: ['emarawa']
+
+Stem: daamaw
+Base words: ['emdaamaw']
+
+Stem: po
+Base words: ['umpo', 'unpo']
+
+Stem: aair
+Base words: ['emaair']
+
+Stem: opatraran
+Base words: ['inopatraran']
+
+Stem: owaomayan
+Base words: ['inowaomayan']
+
+Stem: omo
+Base words: ['inomo']
+
+Stem: uwangung
+Base words: ['emuwangung']
+
+Stem: aremeremeng
+Base words: ['emaremeremeng']
+
+Stem: owabaawan
+Base words: ['inowabaawan']
+
+Stem: aelraw
+Base words: ['emaelraw']
+
+Stem: asatr
+Base words: ['emasatr']
+
+Stem: udreudrem
+Base words: ['emudreudrem']
+
