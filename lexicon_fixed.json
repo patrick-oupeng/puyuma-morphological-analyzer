@@ -1,0 +1,1989 @@
+[
+  {
+    "root": "dirus",
+    "pos": "verb",
+    "english": [
+      "to bathe"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "d-em-irus",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "take a bath"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "saeru",
+    "pos": "verb",
+    "english": [
+      "to laugh"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-aeru",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "start laughing"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "salepad",
+    "pos": "verb",
+    "english": [
+      "to kick"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-alepad",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "kick"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "seking",
+    "pos": "verb",
+    "english": [
+      "take an exam"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-eking",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "apply for an exam"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "adras",
+    "pos": "verb",
+    "english": [
+      "to lift"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "-em-adras",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to lift"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sait",
+    "pos": "verb",
+    "english": [
+      "to hang"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-ait",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to hang"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "salem",
+    "pos": "verb",
+    "english": [
+      "to plant"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-alem",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to plant"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sela",
+    "pos": "verb",
+    "english": [
+      "to overflow"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-ela",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "pop out"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "akak",
+    "pos": "noun",
+    "english": [
+      "crow's caw"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-akak",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "caw"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "gilgil",
+    "pos": "noun",
+    "english": [
+      "Pull hard/trot"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "g-em-ilgil",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "Scurry"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "truktruk",
+    "pos": "noun",
+    "english": [
+      "thud"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "t-em-ruktruk",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "knock"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "gingging",
+    "pos": "noun",
+    "english": [
+      "swing"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "g-em-inging",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "earthquake"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sudsud",
+    "pos": "noun",
+    "english": [
+      "chopping sound/walking sound"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-udsud",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "shuffle"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "aremeng",
+    "pos": "adjective",
+    "english": [
+      "dark"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "-em-aremeng",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "darken"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "etr'etr",
+    "pos": "adjective",
+    "english": [
+      "crowd"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "-em-etr'etr",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "shove"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sabal",
+    "pos": "adjective",
+    "english": [
+      "moring"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-abal",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "eearly"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "udreudrem",
+    "pos": "adjective",
+    "english": [
+      "black"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "-em-udreudrem",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "darken"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "asatr",
+    "pos": "adjective",
+    "english": [
+      "high"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "-em-asat",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "raise prices"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "kuatis",
+    "pos": "adjective",
+    "english": [
+      "broken"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-",
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "k-em-uatis",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to break"
+        ]
+      },
+      {
+        "form": "k-in-uatis",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "broken"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "salsal",
+    "pos": "adjective",
+    "english": [
+      "thin"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-",
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-alsal",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "thin out"
+        ]
+      },
+      {
+        "form": "s-in-alsal",
+        "affix_type": "infix",
+        "affix": "in",
+        "meaning": [
+          "reduced in thickness"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "samek",
+    "pos": "adjective",
+    "english": [
+      "itchy"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-amek",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "itch"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "su'ang",
+    "pos": "noun",
+    "english": [
+      "horn"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-",
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-u'ang",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "gore"
+        ]
+      },
+      {
+        "form": "s-in-u'ang",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "gored"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "tupi",
+    "pos": "noun",
+    "english": [
+      "gel"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "t-em-upi",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to paste"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "tamina",
+    "pos": "noun",
+    "english": [
+      "boat"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "t-em-amina",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to row a boat"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "saytu",
+    "pos": "noun",
+    "english": [
+      "knife"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-aytu",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "take charge"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "tarawiri",
+    "pos": "noun",
+    "english": [
+      "left"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "t-em-arawiri",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to do something with left hand"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sabun",
+    "pos": "noun",
+    "english": [
+      "soap"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-abun",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "use soap"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "saleked",
+    "pos": "noun",
+    "english": [
+      "bolt"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-",
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-aleked",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to bolt"
+        ]
+      },
+      {
+        "form": "s-in-aleked",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "bolted"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sasing",
+    "pos": "noun",
+    "english": [
+      "picture"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-asing",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to take pictures"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "saypu",
+    "pos": "noun",
+    "english": [
+      "dried raddish"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-aypu",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "make dried raddish"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "tamaku",
+    "pos": "noun",
+    "english": [
+      "tobacco"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "t-em-amaku",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to smoke"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "saub",
+    "pos": "noun",
+    "english": [
+      "roof"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-aub",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "build a roof"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "senay",
+    "pos": "noun",
+    "english": [
+      "song"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-enay",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to sing"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "tilil",
+    "pos": "noun",
+    "english": [
+      "word"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "t-em-ilil",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to write"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "darulallal",
+    "pos": "noun",
+    "english": [
+      "cicadas"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "d-em-arulallal",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "cicadas buzz"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sepusepuy",
+    "pos": "noun",
+    "english": [
+      "bird"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-em-pusepuy",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "birds chirp"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "kadri",
+    "pos": "determiner",
+    "english": [
+      "this(the only one)"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "k-em-adri",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to do so"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "kadrini",
+    "pos": "determiner",
+    "english": [
+      "this(one of many)"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "k-em-adrini",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to do so/therefore"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "kadru",
+    "pos": "determiner",
+    "english": [
+      "that(the only one)"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "k-em-adru",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to do that"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "kadrunu",
+    "pos": "determiner",
+    "english": [
+      "that(one of many)"
+    ],
+    "affixes": {
+      "infix": [
+        "-em-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "k-em-adrunu",
+        "affix_type": "infix",
+        "affix": "-em-",
+        "meaning": [
+          "to do that"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "baitr",
+    "pos": "verb",
+    "english": [
+      "burn"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "b-in-aitr",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be burned"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "atek",
+    "pos": "verb",
+    "english": [
+      "chop off"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "-in-atek",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be chopped off"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sukdal",
+    "pos": "verb",
+    "english": [
+      "poke"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-ukdal",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be poked"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "selap",
+    "pos": "verb",
+    "english": [
+      "sweep"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-elap",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be sweeped"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "surut",
+    "pos": "verb",
+    "english": [
+      "spray"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "-in-atek",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be sprayed"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "drimut",
+    "pos": "verb",
+    "english": [
+      "capture"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "d-in-rimut",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be captured"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "saresar",
+    "pos": "verb",
+    "english": [
+      "drill"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-aresar",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be drilled"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sulud",
+    "pos": "verb",
+    "english": [
+      "push"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-ulud",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be pushed away"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "suruk",
+    "pos": "verb",
+    "english": [
+      "order"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-uruk",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be ordered"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "takis",
+    "pos": "verb",
+    "english": [
+      "cut"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "t-in-akis",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be cut"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sudsud",
+    "pos": "verb",
+    "english": [
+      "cut grass"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-udsud",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be cut"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sabsab",
+    "pos": "verb",
+    "english": [
+      "wash"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-absab",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be washed"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "seksek",
+    "pos": "verb",
+    "english": [
+      "stock"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-eksek",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "be stocked"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "taktak",
+    "pos": "verb",
+    "english": [
+      "chop"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "t-in-altal",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "sawdust"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "bias",
+    "pos": "adjective",
+    "english": [
+      "hot"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "b-in-ias",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "heated"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sekut",
+    "pos": "adjective",
+    "english": [
+      "curved"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-ekut",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "bent"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "garetim",
+    "pos": "noun",
+    "english": [
+      "siccsor"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "g-in-aretim",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "cut"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "suud",
+    "pos": "noun",
+    "english": [
+      "rope"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-uud",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "snared"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "salray",
+    "pos": "noun",
+    "english": [
+      "noose"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-alray",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "lassoed"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "seki",
+    "pos": "noun",
+    "english": [
+      "nail"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-eki",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "scratched"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "siukuy",
+    "pos": "noun",
+    "english": [
+      "barrel"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-iukuy",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "barreled"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sayna",
+    "pos": "noun",
+    "english": [
+      "basket"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-alray",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "basketed"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "draetra",
+    "pos": "noun",
+    "english": [
+      "lock"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "tr-in-aetra",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "locked"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sukun",
+    "pos": "noun",
+    "english": [
+      "skirt"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-ukun",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "Made into a skirt"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "saliabung",
+    "pos": "noun",
+    "english": [
+      "headscarf"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-aliabung",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "wrapped headscarf"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sayda",
+    "pos": "noun",
+    "english": [
+      "soda"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-ayda",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "Made into a soda"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "seksek",
+    "pos": "noun",
+    "english": [
+      "corner"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-eksek",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "gathered into corner"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "sebeng",
+    "pos": "noun",
+    "english": [
+      "wall"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-ukun",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "erected barrier"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "siraw",
+    "pos": "noun",
+    "english": [
+      "pickled fish"
+    ],
+    "affixes": {
+      "infix": [
+        "-in-"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "s-in-iraw",
+        "affix_type": "infix",
+        "affix": "-in-",
+        "meaning": [
+          "braised food"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "ami'",
+    "pos": "noun",
+    "english": [
+      "year"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "ami'-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "age",
+          "life span",
+          "years"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "lrima",
+    "pos": "noun",
+    "english": [
+      "hand"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "lrima-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "handicraft"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "ngai",
+    "pos": "noun",
+    "english": [
+      "speech"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "ngai-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "dialect",
+          "language"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "trau",
+    "pos": "noun",
+    "english": [
+      "human"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "trau-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "human",
+          "race",
+          "human nature"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "ruma'",
+    "pos": "noun",
+    "english": [
+      "home"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "ruma'-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "family"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "tiam",
+    "pos": "noun",
+    "english": [
+      "store"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "tiam-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "store types",
+          "commerce"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "drini",
+    "pos": "determiner",
+    "english": [
+      "this",
+      "these"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "drini-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "this object"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "drunu",
+    "pos": "determiner",
+    "english": [
+      "that(far)"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "drunu-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "that object"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "druma",
+    "pos": "determiner",
+    "english": [
+      "other"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "druma-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "other object"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "driyu",
+    "pos": "determiner",
+    "english": [
+      "that(near you)"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "drunu-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "that object"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "tingting",
+    "pos": "verb",
+    "english": [
+      "weigh"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "tingting-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "weighing station"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "baybay",
+    "pos": "verb",
+    "english": [
+      "hang clother"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "baybay-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "drying area"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "imeng",
+    "pos": "verb",
+    "english": [
+      "confine"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "imeng-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "detention center"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "engedr",
+    "pos": "verb",
+    "english": [
+      "breath"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "engedr-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "trachea"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "lregetr",
+    "pos": "verb",
+    "english": [
+      "loss"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "lragetr-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "worn area"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "aseb",
+    "pos": "verb",
+    "english": [
+      "smoke",
+      "Make one's nose burn"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "tingting-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "smoking",
+          "smoking area",
+          "chimney"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "ngadir",
+    "pos": "verb",
+    "english": [
+      "Chant Buddhist scriptures",
+      "pray"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "ngadir-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "Chanting rituals",
+          "Sing hymns"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "dawa",
+    "pos": "verb",
+    "english": [
+      "manufacture",
+      "replicate"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "daway-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "shape",
+          "form"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "dekil",
+    "pos": "verb",
+    "english": [
+      "tiptoe"
+    ],
+    "affixes": {
+      "suffix": [
+        "-an"
+      ]
+    },
+    "derived_forms": [
+      {
+        "form": "dekil-an",
+        "affix_type": "suffix",
+        "affix": "-an",
+        "meaning": [
+          "tiptoe",
+          "tiptoeing"
+        ]
+      }
+    ]
+  }
+]
